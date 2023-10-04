@@ -1,7 +1,6 @@
 ---
 title: "Premier post"
 date: 2023-09-29
-categories: [random]
 author: MieppeDePain
 ---
 # Hello World
