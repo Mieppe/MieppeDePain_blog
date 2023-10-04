@@ -1,6 +1,7 @@
 title: Le Blog 1.0
 author: MieppeDePain
 description : Ceci est un blog. Enfin je crois.
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima
+  skin: dark
 plugins:
 - jekyll-remote-theme
