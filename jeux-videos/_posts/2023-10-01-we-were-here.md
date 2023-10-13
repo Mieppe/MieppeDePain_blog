@@ -9,7 +9,7 @@ Bonjour bonjour, et bienvenu sur ce nouvel article concernant un jeu vidéo !
 Je dis "ce nouvel article", mais à vrai dire c'est mon tout premier.
 Donc c'est parti !
 
-![](../assets/2023-10-01-we-were-here-1.png)
+![](/jeux-videos/assets/2023-10-01-we-were-here-1.png)
 
 Je vais commencer cette série par un jeu coopératif ! We Were Here.
 Bon, pour être tout à fait honnête, il s'agit d'une série de jeux, et pas d'un jeu unique.
