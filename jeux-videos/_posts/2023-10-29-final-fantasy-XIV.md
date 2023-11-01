@@ -7,7 +7,7 @@ author: MieppeDePain
 
 Yoyoyo bonjour à tous et bienvenue dans ce nouvel article, ou post, ou page, ou idk comment ça s'appelle mais bon hein voilà hein.
 
-//petite image ?
+![](/MieppeDePain_blog/assets/images/final_fantasy_XIV_1.jpg)
 
 Alors. Par ou commencer...
 A vrai dire, je sais exactement comment commencer : HAVEYOUHEARDOFTHECRITICALLYACCLAIMEDMMORPGFINALFANTASYXIVWITHANEXPANDEDFREETRIALWHICHYOUCANPLAYTHROUGHENTIRETYOFAREALMREBORNANDTHEAWARD-WINNINGSTORMBLOODEXPANSIONUPTOLEVEL70FORFREEWITHNORESTRICTIONONPLAYTIME
@@ -32,7 +32,7 @@ Et un jour on m'a dit "Hé viens on teste FF14, ça va te plaire, il y a des fem
 Face à des arguments d'une telle force, vous comprendrez que je n'ai pas eu d'autres choix que d'installer le jeu sur le champs.
 J'ai donc créé Mie Chalahko, ma Miqo'te, et j'ai commencé mon aventur en Eorzéa.
 
-// photo de mie
+![](/MieppeDePain_blog/assets/images/final_fantasy_XIV_2.png)
 
 J'avoue avoir du mal à me souvenir à quel moment j'ai réalisé que j'adorai ce jeu. J'ai toujours aimé tester de nouveaux jeux, découvrir un nouvel univers, de nouvelles mécaniques, c'est quelques chose que j'adore, et qu'adore aussi la personne qui m'a motivé à jouer à FF. On s'est donc lancé dans notre aventure tous les deux et il faut dire que ça a été un véritable coup de coeur.
 
