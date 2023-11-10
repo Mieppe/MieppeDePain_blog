@@ -2,6 +2,7 @@
 title: "Final Fantasy XIV"
 date: 2023-10-29
 author: MieppeDePain
+categories: jeux-videos
 ---
 # Final Fantasy XIV
 
