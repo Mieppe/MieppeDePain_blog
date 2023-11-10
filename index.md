@@ -11,18 +11,7 @@ Bien le bonjour voyageur !
 ---
 # Catégories
 Ci dessous les différentes catégories :
-[Jeux Vidéos](other_file.md)
-[Divers](other_file.md)
-
-
-<ul>
-{% for post in site.posts %}
-{% if post.categories contains "jeux-videos" %}
-    <li>
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-{% endif %}
-{% endfor %}
-</ul>
+- [Jeux Vidéos](categories/jeu-videos.md)
+- [Divers](categories/divers.md)
 
 --- 
