@@ -5,19 +5,13 @@ description : Ceci est un blog. Enfin je crois.
 ---
 
 ---
-# Intro
-Bien le bonjour voyageur !
+# Divers
+Ci dessous, une petites listes des postes que j'ai pu faire et pour lesquels j'ai eu la flemme de créer une catégorie. La bise !
 
----
-# Catégories
-Ci dessous les différentes catégories :
-[Jeux Vidéos](other_file.md)
-[Divers](other_file.md)
-
-
+## Liste des postes
 <ul>
 {% for post in site.posts %}
-{% if post.categories contains "jeux-videos" %}
+{% if post.categories contains "random-shit" %}
     <li>
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>
