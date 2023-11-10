@@ -5,16 +5,10 @@ description : Ceci est un blog. Enfin je crois.
 ---
 
 ---
-# Intro
-Bien le bonjour voyageur !
+# Jeux Vidéos
+Whaaaaaa ! Alors vous aussi vous aimez les veux vidéos ? C'est fabuleux ça !
 
----
-# Catégories
-Ci dessous les différentes catégories :
-[Jeux Vidéos](other_file.md)
-[Divers](other_file.md)
-
-
+## Liste des postes
 <ul>
 {% for post in site.posts %}
 {% if post.categories contains "jeux-videos" %}
