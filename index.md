@@ -11,6 +11,9 @@ Ci dessous les articles "jeux vidéos" :
 <ul>
 {% for post in site.posts %}
 {% if post.catefories contains "jeux-videos" %}
-    <li>{{post.title}}</li>
+    <li>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </li>
 {% endif %}
 {% endfor %}
+</ul>
