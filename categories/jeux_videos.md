@@ -10,9 +10,9 @@ Whaaaaaa ! Alors vous aussi vous aimez les jeux vidéos ? C'est fabuleux ça !
 
 ## Liste des posts
 <ul>
-  {% for post in site.categories.jeux-videos %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for incredible_post in site.categories.jeux-videos %}
+    {% if incredible_post.url %}
+        <li><a href="{{ incredible_post.url }}">{{ incredible_post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>

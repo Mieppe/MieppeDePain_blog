@@ -10,9 +10,9 @@ Ci dessous, une petites listes des posts que j'ai pu faire et pour lesquels j'ai
 
 ## Liste des posts
 <ul>
-  {% for post in site.categories.divers %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for incredible_post in site.categories.divers %}
+    {% if incredible_post.url %}
+        <li><a href="{{ incredible_post.url }}">{{ incredible_post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
