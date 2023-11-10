@@ -6,9 +6,9 @@ description : Ceci est un blog. Enfin je crois.
 
 ---
 # Jeux Vidéos
-Whaaaaaa ! Alors vous aussi vous aimez les veux vidéos ? C'est fabuleux ça !
+Whaaaaaa ! Alors vous aussi vous aimez les jeux vidéos ? C'est fabuleux ça !
 
-## Liste des postes
+## Liste des posts
 <ul>
 {% for post in site.posts %}
 {% if post.categories contains "jeux-videos" %}

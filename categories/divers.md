@@ -6,9 +6,9 @@ description : Ceci est un blog. Enfin je crois.
 
 ---
 # Divers
-Ci dessous, une petites listes des postes que j'ai pu faire et pour lesquels j'ai eu la flemme de créer une catégorie. La bise !
+Ci dessous, une petites listes des posts que j'ai pu faire et pour lesquels j'ai eu la flemme de créer une catégorie. La bise !
 
-## Liste des postes
+## Liste des posts
 <ul>
 {% for post in site.posts %}
 {% if post.categories contains "random-shit" %}
