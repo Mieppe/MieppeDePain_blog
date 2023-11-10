@@ -10,13 +10,10 @@ Ci dessous, une petites listes des posts que j'ai pu faire et pour lesquels j'ai
 
 ## Liste des posts
 <ul>
-{% for post in site.posts %}
-{% if post.categories contains "random-shit" %}
-    <li>
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-{% endif %}
-{% endfor %}
+  {% for post in site.categories.divers %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
 </ul>
-
 --- 
