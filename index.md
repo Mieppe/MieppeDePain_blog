@@ -11,7 +11,7 @@ Bien le bonjour voyageur !
 ---
 # Catégories
 Ci dessous les différentes catégories :
-- [Jeux Vidéos](categories/jeu-videos.md)
+- [Jeux Vidéos](categories/jeux_videos.md)
 - [Divers](categories/divers.md)
 
 --- 
