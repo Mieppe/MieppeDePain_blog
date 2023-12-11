@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Other files and folder
+########################
+/_site
+/.sass-cache
+/Gemfile.lock
+/_config_local.yml
