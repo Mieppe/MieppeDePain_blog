@@ -13,5 +13,6 @@ Bien le bonjour voyageur !
 Ci dessous les différentes catégories :
 - [Jeux Vidéos](categories/jeux_videos.md)
 - [Divers](categories/divers.md)
+- [Le Fond](categories/le_fond.md)
 
 --- 
