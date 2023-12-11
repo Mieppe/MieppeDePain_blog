@@ -1,6 +1,6 @@
 
 ---
-# Divers
+# Le Fond
 Tiens, on dirait que vous avez touché le fond.
 Bienvenue dans la twittosphère. Ou plutôt un erzatz de cette dernière, qui en copie l'escence tout en en modifiant la forme.
 Ici rien n'est vrai, rien n'est nuancé, rien n'est réfléchi. Communiquer cesse d'être un outil et devient une fin en soi. Parler pour parler, écrire pour écrire.
