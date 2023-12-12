@@ -1,0 +1,18 @@
+Les petits TODO :
+magic TG
+wakfu
+rusty lake
+it takes two
+les bouquins là
+musique maybe ?
+les occupations nazes genre le tricot
+baldur évidemment
+apex
+fortnite mdr ?
+lol
+des mytho tweet mdr
+les reflexions cons
+
+Pour lancer localement :
+bundle install
+bundle exec jekyll serve --config _config_local.yml
