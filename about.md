@@ -9,3 +9,4 @@ permalink: /about/
 # About myself, ou à propos de moi.
 Heuuuu que dire ?
 Pourquoi je fais ce blog maybe ?
+Promis je vais mettre cette page à jour, un jour, surement.
