@@ -1,3 +1,6 @@
+Les WIP :
+ewilan / ellana
+
 Les petits TODO :
 magic TG
 wakfu
@@ -12,6 +15,9 @@ fortnite mdr ?
 lol
 des mytho tweet mdr
 les reflexions cons
+des pages sur des artistes que j'aime en musique ou autre
+même anime en vrai
+mini série, centaurworld, vox machina, hazbin hotel etc
 
 Pour lancer localement :
 bundle install
