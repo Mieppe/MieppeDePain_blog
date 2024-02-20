@@ -15,4 +15,4 @@ les reflexions cons
 
 Pour lancer localement :
 bundle install
-bundle exec jekyll serve --config _config_local.yml
+bundle exec jekyll serve
