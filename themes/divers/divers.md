@@ -5,7 +5,7 @@ Ci dessous, une petites listes des posts que j'ai pu faire et pour lesquels j'ai
 
 ## Liste des posts
 <ul>
-  {% for incredible_post in site.categories.divers %}
+  {% for incredible_post in site.categories.random-shit %}
     {% if incredible_post.url %}
         <li><a href="{{ site.baseurl }}/{{ incredible_post.url }}">{{ incredible_post.title }}</a></li>
     {% endif %}

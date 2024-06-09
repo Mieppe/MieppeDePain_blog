@@ -2,7 +2,7 @@
 title: "Selection Septembre 2018"
 date: 2023-12-14
 author: MieppeDePain
-categories: playlists-musicales
+categories: playlists-musicales, musique
 ---
 # Selection Septembre 2018
 *"Souvenirs d'été"*
