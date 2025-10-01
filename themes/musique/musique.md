@@ -11,7 +11,7 @@ Bref, voici donc les différentes catégories disponibles dans ce thème, et les
 
 ## Liste des catégories
 - [Playlist musicales](categories/playlists_musicales.md)
-- [Musique divers**](categories/musique_divers.md)
+- [Musique divers](categories/musique_divers.md)
 
 ## Liste des posts
 <ul>
