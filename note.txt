@@ -12,6 +12,9 @@ fortnite mdr ?
 lol
 des mytho tweet mdr
 les reflexions cons
+bioshock
+talos principe
+vrising
 
 Pour lancer localement :
 bundle install
