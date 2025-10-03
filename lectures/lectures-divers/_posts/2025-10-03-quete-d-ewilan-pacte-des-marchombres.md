@@ -2,7 +2,7 @@
 title: "La Quête d'Ewilan / Le Pacte Des Marchombres"
 date: 2025-10-03
 author: MieppeDePain
-categories: lectures
+categories: lectures-divers, lectures
 ---
 # La Quête d'Ewilan / Le Pacte Des Marchombres
 
