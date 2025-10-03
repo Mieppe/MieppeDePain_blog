@@ -18,7 +18,10 @@ les reflexions cons
 des pages sur des artistes que j'aime en musique ou autre
 même anime en vrai
 mini série, centaurworld, vox machina, hazbin hotel etc
+bioshock
+talos principe
+vrising
 
 Pour lancer localement :
 bundle install
-bundle exec jekyll serve --config _config_local.yml
+bundle exec jekyll serve

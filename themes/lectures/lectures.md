@@ -12,6 +12,10 @@ Bref. Lisez.
 
 Quoi vous ne savez pas quoi lire ? Rholala je n'osais pas, mais si vous insistez... :
 
+## Liste des catégories
+- [Liste de lectures](categories/liste_de_lectures.md)
+- [Lectures divers](categories/lectures_divers.md)
+
 ## Liste des posts
 <ul>
   {% for incredible_post in site.categories.lectures %}

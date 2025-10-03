@@ -10,11 +10,12 @@ description : Ceci est un blog. Enfin je crois.
 Bien le bonjour voyageur !
 
 ---
-# Catégories
-Ci dessous les différentes catégories :
-- [Jeux Vidéos](categories/jeux_videos.md)
-- [Lectures](categories/lectures.md)
-- [Divers](categories/divers.md)
-- [Le Fond](categories/le_fond.md)
+# Thèmes
+Ci dessous les grands thèmes que j'aborde tant bien que mal :
+- [Jeux Vidéos](themes/jeux_videos/jeux_videos.md)
+- [Musique](themes/musique/musique.md)
+- [Lectures](themes/lectures/lectures.md)
+- [Divers](themes/divers/divers.md)
+- [Le Fond](themes/le_fond/le_fond.md)
 
 --- 
