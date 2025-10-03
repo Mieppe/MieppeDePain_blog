@@ -2,7 +2,7 @@
 title: "Sauvegarde Spotify"
 date: 2025-10-03
 author: MieppeDePain
-categories: musique-divers
+categories: musique-divers, musique
 ---
 
 Chose promise (à moi même) chose due : 

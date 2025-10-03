@@ -2,7 +2,7 @@
 title: "Sauvegarde Spotify"
 date: 2024-06-23
 author: MieppeDePain
-categories: musique-divers
+categories: musique-divers, musique
 ---
 
 Bonjour, on est le 1er Octobre 2025 et je reviens sur mon blog.
