@@ -1,5 +1,11 @@
 Les WIP :
-ewilan / ellana
+ajouter des posts pour chaque categorie
+une seule liste dans TV, qui regroupe films anime série (mais des sous listes dans le post je pense)
+idem pour livre
+idem pour jv
+idem pour jds
+à chaque fois faire un post qui est "tout jusqu'à maintenant" puis un post par année
+dans le post "tt jusqu'à maintenant en profiter pour linker mon anime liste, gooread etc maybe ?
 
 Les petits TODO :
 magic TG
@@ -21,6 +27,8 @@ mini série, centaurworld, vox machina, hazbin hotel etc
 bioshock
 talos principe
 vrising
+la fucking liste des cookies
+des recettes 
 
 Pour lancer localement :
 bundle install

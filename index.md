@@ -12,10 +12,12 @@ Bien le bonjour voyageur !
 ---
 # Thèmes
 Ci dessous les grands thèmes que j'aborde tant bien que mal :
-- [Jeux Vidéos](themes/jeux_videos/jeux_videos.md)
 - [Musique](themes/musique/musique.md)
 - [Lectures](themes/lectures/lectures.md)
-- [Divers](themes/divers/divers.md)
+- [Télévision](themes/television/television.md)
+- [Jeux Vidéos](themes/jeux_videos/jeux_videos.md)
+- [Jeux De Société](themes/jeux_de_societe/jeux_de_societe.md)
+- [Random Shit (aka Divers)](themes/divers/divers.md)
 - [Le Fond](themes/le_fond/le_fond.md)
 
 --- 
