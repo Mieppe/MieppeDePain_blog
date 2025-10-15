@@ -1,6 +1,6 @@
 
 ---
-# Playlists musicales
+# Playlists Musicales
 Vous savez, on a chacun des trucs que l'on aime faire pendant notre temps libre.
 Moi par exemple, une choses que j'aime faire, c'est me perdre sur youtube pour découvrir de nouvelles musiques.
 
