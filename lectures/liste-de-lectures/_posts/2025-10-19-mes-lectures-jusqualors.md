@@ -69,3 +69,5 @@ Bref, assez blablaté, c'est parti pour la liste des choses que j'ai déjà lu. 
 - Tokyo Ghoul (FR)
 
 (penser aussi bd et manga)
+(relire, ajouter infos manquantes)
+(trier grossomodo en chonologie)
