@@ -2,7 +2,7 @@
 title: "The Talos Principle"
 date: 2025-10-21
 author: MieppeDePain
-categories: jeux-videos
+categories: jeux-videos, jv-divers
 ---
 # The Talos Principle
 

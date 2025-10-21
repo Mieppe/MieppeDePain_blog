@@ -2,7 +2,7 @@
 title: "We were here"
 date: 2023-10-01
 author: MieppeDePain
-categories: jeux-videos
+categories: jeux-videos, jv-divers
 ---
 # We were here
 
