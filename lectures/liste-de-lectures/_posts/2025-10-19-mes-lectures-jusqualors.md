@@ -413,12 +413,14 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Arleston, C. & Mourier, J. L. (1999). _Trolls de Troy, Tome 3 : Comme un vol de Pétaures_. Editions Soleil
 - Arleston, C. & Mourier, J. L. (2000). _Trolls de Troy, Tome 4 : Le Feu occulte_. Editions Soleil
 - Arleston, C. & Mourier, J. L. (2001). _Trolls de Troy, Tome 5 : Maléfices de Thaumaturge_. Editions Soleil // Petit doute sur où je me suis arrêté dans cette série
+- Hergé. (2000). _Tintin au pays des Soviets_. Casterman
+
 
 - To love Ru (FR)
 - Les Schtroumpf, Peyo, Tomes 1 à 29 (FR)
-- Tintin au pays des soviets, Hergé (FR)
 - Le Donjon de Nahleulbeuk, Lang - Poinsot, Tomes 1 à 15 (FR)
 - quelques tintins
+- quelques asterixxx ?
 - kidpaddle
 
 ## Autres lectures
