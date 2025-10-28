@@ -189,21 +189,198 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Damasio, A. (2012). _Aucun Souvenir Assez Solide_. La Volte
 - Damasio, A. (2004). _La Horde du Contrevent_. La Volte
 - Damasio, A. (2007). _La Zone du Dehors_. La Volte
-- Lovecraft, H. P. (2007) _Collected Short Stories, Tome 1 : The Whisperer in Darkness_. Wordsworth Editions
+- Lovecraft, H. P. (2007). _Collected Short Stories, Tome 1 : The Whisperer in Darkness_. Wordsworth Editions
 
 ## DB/Manga
+- Oda, E. (1997). _One Piece, Tome 1 : A l'aube d'une grande aventure_. Glénat
+- Oda, E. (1998). _One Piece, Tome 2 : Aux prises avec Baggy et ses hommes_. Glénat
+- Oda, E. (1998). _One Piece, Tome 3 : Piété filiale_. Glénat
+- Oda, E. (1998). _One Piece, Tome 4 : Un chemin en pente raide_. Glénat
+- Oda, E. (1998). _One Piece, Tome 5 : Pour qui sonne le glas_. Glénat
+- Oda, E. (1998). _One Piece, Tome 6 : La grande promesse_. Glénat
+- Oda, E. (1999). _One Piece, Tome 7 : Le vieux schnock_. Glénat
+- Oda, E. (1999). _One Piece, Tome 8 : Pas de souci_. Glénat
+- Oda, E. (1999). _One Piece, Tome 9 : Une jeune fille en pleurs_. Glénat
+- Oda, E. (1999). _One Piece, Tome 10 : OK, let's stand up !_. Glénat
+- Oda, E. (1999). _One Piece, Tome 11 : Le plus grand bandit d'East Blue_. Glénat
+- Oda, E. (2000). _One Piece, Tome 12 : Et ainsi débuta la légende_. Glénat
+- Oda, E. (2000). _One Piece, Tome 13 : Tiens bon !!_. Glénat
+- Oda, E. (2000). _One Piece, Tome 14 : Instinct_. Glénat
+- Oda, E. (2000). _One Piece, Tome 15 : Droit devant !!_. Glénat
+- Oda, E. (2000). _One Piece, Tome 16 : Successeurs_. Glénat
+- Oda, E. (2001). _One Piece, Tome 17 : Les cerisiers d'Hiluluk_. Glénat
+- Oda, E. (2001). _One Piece, Tome 18 : Ace entre en scène_. Glénat
+- Oda, E. (2001). _One Piece, Tome 19 : Rebéllion_. Glénat
+- Oda, E. (2001). _One Piece, Tome 20 : Bataille décisive à Alubarna_. Glénat
+- Oda, E. (2001). _One Piece, Tome 21 : Utopia_. Glénat
+- Oda, E. (2002). _One Piece, Tome 22 : Hope !_. Glénat
+- Oda, E. (2002). _One Piece, Tome 23 : L'aventure de Vivi_. Glénat
+- Oda, E. (2002). _One Piece, Tome 24 : Croire en ses rêves_. Glénat
+- Oda, E. (2002). _One Piece, Tome 25 : L'homme qui valait 100 millions_. Glénat
+- Oda, E. (2002). _One Piece, Tome 26 : Aventure sur l'île de Dieu_. Glénat
+- Oda, E. (2003). _One Piece, Tome 27 : Prélude_. Glénat
+- Oda, E. (2003). _One Piece, Tome 28 : Wiper le démon furieux_. Glénat
+- Oda, E. (2003). _One Piece, Tome 29 : Oratorio_. Glénat
+- Oda, E. (2003). _One Piece, Tome 30 : Capriccio_. Glénat
+- Oda, E. (2003). _One Piece, Tome 31 : Nous sommes là_. Glénat
+- Oda, E. (2004). _One Piece, Tome 32 : Love song_. Glénat
+- Oda, E. (2004). _One Piece, Tome 33 : Davy back fight !!_. Glénat
+- Oda, E. (2004). _One Piece, Tome 34 : Water Seven, la cité sur l'eau_. Glénat
+- Oda, E. (2004). _One Piece, Tome 35 : Capitaine_. Glénat
+- Oda, E. (2005). _One Piece, Tome 36 : Justice n°9_. Glénat
+- Oda, E. (2005). _One Piece, Tome 37 : Monsieur Tom_. Glénat
+- Oda, E. (2005). _One Piece, Tome 38 : Rocketman !_. Glénat
+- Oda, E. (2005). _One Piece, Tome 39 : Opération sauvetage_. Glénat
+- Oda, E. (2005). _One Piece, Tome 40 : Gear_. Glénat
+- Oda, E. (2006). _One Piece, Tome 41 : Déclaration de guerre_. Glénat
+- Oda, E. (2006). _One Piece, Tome 42 : Les pirates contre le CP9_. Glénat
+- Oda, E. (2006). _One Piece, Tome 43 : La légende du héros_. Glénat
+- Oda, E. (2006). _One Piece, Tome 44 : "Rentrons"_. Glénat
+- Oda, E. (2007). _One Piece, Tome 45 : Je comprends ce que vous ressentez_. Glénat
+- Oda, E. (2007). _One Piece, Tome 46 : Aventure sur l'île fantôme_. Glénat
+- Oda, E. (2007). _One Piece, Tome 47 : Temps couvert avec chutes d'os par moments_. Glénat
+- Oda, E. (2007). _One Piece, Tome 48 : L'aventure d'Oz_. Glénat
+- Oda, E. (2008). _One Piece, Tome 49 : Nightmare Luffy_. Glénat
+- Oda, E. (2008). _One Piece, Tome 50 : De nouveau face au mur_. Glénat
+- Oda, E. (2008). _One Piece, Tome 51 : Les onze supernovae_. Glénat
+- Oda, E. (2008). _One Piece, Tome 52 : Roger & Rayleigh_. Glénat
+- Oda, E. (2009). _One Piece, Tome 53 : Le tempérament d'un roi_. Glénat
+- Oda, E. (2009). _One Piece, Tome 54 : Plus personne ne m'arrêtera_. Glénat
+- Oda, E. (2009). _One Piece, Tome 55 : Un travelo en enfer_. Glénat
+- Oda, E. (2010). _One Piece, Tome 56 : Merci pour tout_. Glénat
+- Oda, E. (2010). _One Piece, Tome 57 : Guerre au sommet_. Glénat
+- Oda, E. (2010). _One Piece, Tome 58 : L'ère de Barbe Blanche_. Glénat
+- Oda, E. (2010). _One Piece, Tome 59 : La mort de Portgas D. Ace_. Glénat
+- Oda, E. (2010). _One Piece, Tome 60 : Petit frère_. Glénat
+- Oda, E. (2011). _One Piece, Tome 61 : A l'aube d'une grande aventure vers le nouveau monde_. Glénat
+- Oda, E. (2011). _One Piece, Tome 62 : Périple sur l'île des hommes-poissons_. Glénat
+- Oda, E. (2011). _One Piece, Tome 63 : Otohime et Tiger_. Glénat
+- Oda, E. (2011). _One Piece, Tome 64 : 100 000 vs 10_. Glénat
+- Oda, E. (2012). _One Piece, Tome 65 : Table rase_. Glénat
+- Oda, E. (2012). _One Piece, Tome 66 : Vers le soleil_. Glénat
+- Oda, E. (2012). _One Piece, Tome 67 : Cool fight_. Glénat
+- Oda, E. (2012). _One Piece, Tome 68 : Alliance entre pirates_. Glénat
+- Oda, E. (2013). _One Piece, Tome 69 : Sad_. Glénat
+- Oda, E. (2013). _One Piece, Tome 70 : Doflamingo sort de l'ombre_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2013). _One Piece, Tome 71 : Le colisée de tous les dangers_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2013). _One Piece, Tome 72 : Les oubliés de Dressrosa_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2014). _One Piece, Tome 73 : L'opération Dressrosa S.O.P._. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2014). _One Piece, Tome 74 : Je serai toujours à tes côtés_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 75 : Ma gratitude_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 76 : Poursuis ta route_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 77 : Smile_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 78 : L'icône du mal_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 79 : Lucy !!_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 80 : Vers une bataille sans précédent_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2003). _Beach, Tome 1 : The death and the strawberry_. Glénat
+- Kubo, T. (2003). _Beach, Tome 2 : Goodbye parakeet, goodnite my sista_. Glénat
+- Kubo, T. (2003). _Beach, Tome 3 : Memories in the rain_. Glénat
+- Kubo, T. (2004). _Beach, Tome 4 : Quincy Archer hates you_. Glénat
+- Kubo, T. (2004). _Beach, Tome 5 : Rightarm of the giant_. Glénat
+- Kubo, T. (2004). _Beach, Tome 6 : The death trilogy overture_. Glénat
+- Kubo, T. (2004). _Beach, Tome 7 : The broken coda_. Glénat
+- Kubo, T. (2004). _Beach, Tome 8 : The blade and me_. Glénat
+- Kubo, T. (2005). _Beach, Tome 9 : Fourteen days for conspiracy_. Glénat
+- Kubo, T. (2005). _Beach, Tome 10 : Tatoo on the sky_. Glénat
+- Kubo, T. (2005). _Beach, Tome 11 : A star and a stay dog_. Glénat
+- Kubo, T. (2005). _Beach, Tome 12 : Flower on the precipice_. Glénat
+- Kubo, T. (2005). _Beach, Tome 13 : The undead_. Glénat
+- Kubo, T. (2006). _Beach, Tome 14 : White tower rocks_. Glénat
+- Kubo, T. (2006). _Beach, Tome 15 : Beginning of the death of tomorrow_. Glénat
+- Kubo, T. (2006). _Beach, Tome 16 : Night of Wijnruit_. Glénat
+- Kubo, T. (2006). _Beach, Tome 17 : Rosa Rubicundior, Lilio Candidior_. Glénat
+- Kubo, T. (2006). _Beach, Tome 18 : The deathberry returns_. Glénat
+- Kubo, T. (2006). _Beach, Tome 19 : The black moon rising_. Glénat
+- Kubo, T. (2007). _Beach, Tome 20 : End of hypnosis_. Glénat
+- Kubo, T. (2007). _Beach, Tome 21 : Be my family or not_. Glénat
+- Kubo, T. (2007). _Beach, Tome 22 : Conquistadores_. Glénat
+- Kubo, T. (2007). _Beach, Tome 23 : Mala suerte!_. Glénat
+- Kubo, T. (2007). _Beach, Tome 24 : Immanent god blues_. Glénat
+- Kubo, T. (2008). _Beach, Tome 25 : Noshaking throne_. Glénat
+- Kubo, T. (2008). _Beach, Tome 26 : The mascaron drive_. Glénat
+- Kubo, T. (2008). _Beach, Tome 27 : Goodbye halcyon days_. Glénat
+- Kubo, T. (2008). _Beach, Tome 28 : Baron's lecture full-course_. Glénat
+- Kubo, T. (2008). _Beach, Tome 29 : The slashing opera_. Glénat
+- Kubo, T. (2009). _Beach, Tome 30 : There is no heart without you_. Glénat
+- Kubo, T. (2009). _Beach, Tome 31 : Don't kill my volupture_. Glénat
+- Kubo, T. (2009). _Beach, Tome 32 : Howling_. Glénat
+- Kubo, T. (2009). _Beach, Tome 33 : The bad joke_. Glénat
+- Kubo, T. (2009). _Beach, Tome 34 : King of the kill_. Glénat
+- Kubo, T. (2010). _Beach, Tome 35 : Higher than the moon_. Glénat
+- Kubo, T. (2010). _Beach, Tome 36 : Turn back the pendulum_. Glénat
+- Kubo, T. (2010). _Beach, Tome 37 : Beauty is so solitary_. Glénat
+- Kubo, T. (2010). _Beach, Tome 38 : Fear for fight_. Glénat
+- Kubo, T. (2010). _Beach, Tome 39 : El verdugo_. Glénat
+- Kubo, T. (2011). _Beach, Tome 40 : The lust_. Glénat
+- Kubo, T. (2011). _Beach, Tome 41 : Heart_. Glénat
+- Kubo, T. (2011). _Beach, Tome 42 : Shock of the queen_. Glénat
+- Kubo, T. (2011). _Beach, Tome 43 : Kingdom of hollows_. Glénat
+- Kubo, T. (2011). _Beach, Tome 44 : Vice it_. Glénat
+- Kubo, T. (2011). _Beach, Tome 45 : The burnout inferno_. Glénat
+- Kubo, T. (2012). _Beach, Tome 46 : Back from blind_. Glénat
+- Kubo, T. (2012). _Beach, Tome 47 : End of the chrysalis_. Glénat
+- Kubo, T. (2012). _Beach, Tome 48 : God is dead_. Glénat
+- Kubo, T. (2012). _Beach, Tome 49 : The lost agent_. Glénat
+- Kubo, T. (2012). _Beach, Tome 50 : The six fullbringer_. Glénat
+- Kubo, T. (2013). _Beach, Tome 51 : Love me bitterly, loth me sweetly_. Glénat
+- Kubo, T. (2013). _Beach, Tome 52 : End of bond_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 53 : The deathberry returns 2_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 54 : Goodbye to our xcution_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 55 : The blood warfare_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 56 : March of the starcross_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 57 : Out of bloom_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 58 : The fire_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 59 : The battle_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 60 : Everything but the rain_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2015). _Beach, Tome 61 : The last 9 days_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 1_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 2_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 3_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 4_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 5_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 6_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 7_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 8_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 9_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 10_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 11_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 12_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 13_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 14_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 1_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 2_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 3_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 4_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 5_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 6_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 7_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 8_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 9_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 10_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 11_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 12_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 13_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 14_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 15_. Pika Edition
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 16_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 17_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 18_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 19_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 20_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Gazzotti, B. & Vehlmann, F. (2006). _Seuls, Tome 1 : La disparition_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2006). _Seuls, Tome 2 : Le maître des couteaux_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2007). _Seuls, Tome 3 : Le clan du requin_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2008). _Seuls, Tome 4 : Les Cairns rouges_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2008). _Seuls, Tome 5 : Au coeur du Maelström_. Dupuis // Petit doute sur où je me suis arrêté dans cette série
+- Boulet. (2001). _Rahnarok, Tome 1 : Dragon junior_. Glénat
+- Boulet. (2002). _Rahnarok, Tome 2 : Fées et gestes_. Glénat
+- Pujol, R. & Thitaume. (2012). _The Lapins Crétins, Tome 1 : Bwaaaaaaaaaah !_. Glénat
+
+- To love Ru (FR)
 - Les Schtroumpf, Peyo, Tomes 1 à 29 (FR)
 - Tintin au pays des soviets, Hergé (FR)
-- Les lapins crétins (FR)
-- Raghnarok, Tome 1 et 2 (FR)
-- L'attaque des titans (FR)
-- One Piece (FR)
-- Bleach (FR)
-- To love Ru (FR)
-- Tokyo Ghoul (FR)
 - Le Donjon de Nahleulbeuk, Lang - Poinsot, Tomes 1 à 15 (FR)
 - troll de troy idk combien
-- les autres ? ou un truc comme ça ?
 - quelques tintins
 - Thorgal
 - kidpaddle
