@@ -375,14 +375,50 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Boulet. (2001). _Rahnarok, Tome 1 : Dragon junior_. Glénat
 - Boulet. (2002). _Rahnarok, Tome 2 : Fées et gestes_. Glénat
 - Pujol, R. & Thitaume. (2012). _The Lapins Crétins, Tome 1 : Bwaaaaaaaaaah !_. Glénat
+- Hamme, J. V. & Rosinski, G. (1980). _Thorgal, Tome 1 : La Magicienne_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1980). _Thorgal, Tome 2 : L'Ile des Mers gelées_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1981). _Thorgal, Tome 3 : Les trois veillards du pays d'Aran_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1982). _Thorgal, Tome 4 : La galère noire_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1983). _Thorgal, Tome 5 : Au-delà des ombres_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1984). _Thorgal, Tome 6 : La chute de Brek Zarith_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1984). _Thorgal, Tome 7 : L'enfant des étoiles_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1985). _Thorgal, Tome 8 : Alinoë_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1985). _Thorgal, Tome 9 : Les archers_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1986). _Thorgal, Tome 10 : Le pays Qâ_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1986). _Thorgal, Tome 11 : Les yeux de Tanatloc_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1987). _Thorgal, Tome 12 : La cité du dieu perdu_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1988). _Thorgal, Tome 13 : Entre terre et lumière_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1989). _Thorgal, Tome 14 : Aaricia_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1989). _Thorgal, Tome 15 : Le maître des montagnes_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1990). _Thorgal, Tome 16 : Louve_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1991). _Thorgal, Tome 17 : La gardienne des clés_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1992). _Thorgal, Tome 18 : L'Epée-Soleil_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1993). _Thorgal, Tome 19 : La Forteresse invisible_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1995). _Thorgal, Tome 20 : La marque des Bannis_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1995). _Thorgal, Tome 21 : La Couronne d'Ogotaï_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1996). _Thorgal, Tome 22 : Géants_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1997). _Thorgal, Tome 23 : La Cage_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1999). _Thorgal, Tome 24 : Arachnéa_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1999). _Thorgal, Tome 25 : Le Mal bleu_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2001). _Thorgal, Tome 26 : Le Royaume sous le Sable_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2002). _Thorgal, Tome 27 : Le Babare_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2004). _Thorgal, Tome 28 : Kriss de Valnor_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2006). _Thorgal, Tome 29 : Le Sacrifice_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2007). _Thorgal, Tome 30 : Moi, Jolan_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2008). _Thorgal, Tome 31 : Le Bouclier de Thor_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2010). _Thorgal, Tome 32 : La Bataille d'Asgard_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2011). _Thorgal, Tome 33 : Le Bateau-Sabre_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Arleston, C. & Mourier, J. L. (1997). _Trolls de Troy, Tome 1 : Histoires Trolles_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (1998). _Trolls de Troy, Tome 2 : Le Scalp du Vénérable_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (1999). _Trolls de Troy, Tome 3 : Comme un vol de Pétaures_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (2000). _Trolls de Troy, Tome 4 : Le Feu occulte_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (2001). _Trolls de Troy, Tome 5 : Maléfices de Thaumaturge_. Editions Soleil // Petit doute sur où je me suis arrêté dans cette série
 
 - To love Ru (FR)
 - Les Schtroumpf, Peyo, Tomes 1 à 29 (FR)
 - Tintin au pays des soviets, Hergé (FR)
 - Le Donjon de Nahleulbeuk, Lang - Poinsot, Tomes 1 à 15 (FR)
-- troll de troy idk combien
 - quelques tintins
-- Thorgal
 - kidpaddle
 
 ## Autres lectures
