@@ -1,0 +1,562 @@
+---
+title: "Mes lectures, jusqu'à 2025"
+date: 2025-10-19
+author: MieppeDePain
+categories: liste-de-lectures, lectures
+---
+# Mes lectures, jusqu'à 2025
+
+J'ai comme projet de commencer à lister ici tous les livres, BD, mangas, et autres lectures que j'ai pu consommer au fil des années.
+Comme il faut bien commencer quelque part, je vais faire simple : lister (autant que je peux) absolument tout ce que j'ai lu depuis ma naissance.
+Rien que ça.
+
+Bref, l'idée est en vérité de faire une liste par année, mais comme je ne veux pas laisser derrières toutes les choses que j'ai déjà lu, je dois commencer par ça.
+
+Tant que j'y pense, je vais lacher un petit lien vers mon GoodReads. Ca n'est en aucun cas un engagement de ma part de le maintenir à jour, mais tant qu'à faire, autant le lier à cette page : [Hop c'est ici !](https://www.goodreads.com/user/show/143915074-mieppe)
+
+La où j'ai de la chance, c'est que j'ai fait un joli tri dernièrement, donc j'en ai profité pour prendre plein de photos des bouquins de ma bibliothèque, histoire de pouvoir débuter cette liste sans avoir à faire des aller-retours continus entre mon PC et mes étagères à bouquins.
+
+Bref, assez blablaté, c'est parti pour la liste des choses que j'ai déjà lu. Je vais essayer des les classer dans un ordre grossièrement chonologique :
+
+Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à condition qu'il s'agissent de choses assez différentes. En règle générale, je sépare donc mes lectures principales (on va dire "livres de chevet"), des DB/Manga, et des "autres lectures" souvent plus prises de tête, ou simplement que je ne sais pas trop comment classer. Je vais donc tenter de maintenir cette distinction ici.
+
+## Livres de Chevet
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 1 : Le Neveu du Magicien_. Gallimard
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 2 : Le Lion, La Sorcière Blance et l'Armoire Magique_. Gallimard
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 3 : Le Cheval et son Ecuyer_. Gallimard
+- Lewis, C. S. (2008). _Le Monde de Narnia, Tome 4 : Le Prince Caspian_. Gallimard
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 5 : L'Odyssée du Passeur d'Aurore_. Gallimard
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 6 : Le Fauteuil d'Argent_. Gallimard
+- Lewis, C. S. (2002). _Le Monde de Narnia, Tome 7 : La Dernière Bataille_. Gallimard
+- Bottero, P. (2003). _Les Mondes D'Ewilan, Tome 1 : D'un Monde à l'Autre_. Rageot
+- Bottero, P. (2003). _Les Mondes D'Ewilan, Tome 2 : Les Frontières de Glace_. Rageot
+- Bottero, P. (2003). _Les Mondes D'Ewilan, Tome 3 : L'Ile du Destin_. Rageot
+- Bottero, P. (2004). _La Quête D'Ewilan, Tome 1 : La Forêt des Captifs_. Rageot
+- Bottero, P. (2005). _La Quête D'Ewilan, Tome 2 : L'Oeil d'Otolep_. Rageot
+- Bottero, P. (2005). _La Quête D'Ewilan, Tome 3 : Les Tentacules du Mal_. Rageot
+- Bottero, P. (2006). _Le Pacte des Marchombres, Tome 1 : Ellana_. Rageot 
+- Bottero, P. (2008). _Le Pacte des Marchombres, Tome 2 : Ellana l'Envol_. Rageot 
+- Bottero, P. (2008). _Le Pacte des Marchombres, Tome 3 : Ellana la Prophétie_. Rageot 
+- Bottero, P. (2006). _L'Autre, Tome 1 : Le Souffle de la Hyène_. Rageot
+- Bottero, P. (2007). _L'Autre, Tome 2 : Le Maître des Tempêtes_. Rageot
+- Bottero, P. (2007). _L'Autre, Tome 3 : La Huitième Porte_. Rageot
+- Bottero, P. (2010). _Les Ames Croisées_. Rageot
+- L'Homme, E. (2010). _A Comme Association, Tome 1 : La Pâle Lumière des Ténèbres_. Gallimard
+- Bottero, P. (2010). _A Comme Association, Tome 2 : Les Limites Obscures de la Magie_. Gallimard
+- L'Homme, E. (2011). _A Comme Association, Tome 3 : L'Etoffe Fragile du Monde_. Gallimard
+- Bottero, P. (2011). _A Comme Association, Tome 4 : Le Subtil Parfum du Souffre_. Gallimard
+- L'Homme, E. (2011). _A Comme Association, Tome 5 : Là où les Mots n'Existent pas_. Gallimard
+- L'Homme, E. (2011). _A Comme Association, Tome 6 : Ce qui Dort dans la Nuit_. Gallimard
+- L'Homme, E. (2012). _A Comme Association, Tome 7 : Car nos Coeurs sont Hantés_. Gallimard
+- L'Homme, E. (2012). _A Comme Association, Tome 8 : Le Regard Brûlant des Etoiles_. Gallimard
+- Rodda, E. (2006). _La Quête de Deltora, Tome 1 : Les Forêts du Silence_. Pocket Jeunesse
+- Rodda, E. (2006). _La Quête de Deltora, Tome 2 : Le Lac des Pleurs_. Pocket Jeunesse
+- Rodda, E. (2006). _La Quête de Deltora, Tome 3 : La Cité des Rats_. Pocket Jeunesse
+- Rodda, E. (2006). _La Quête de Deltora, Tome 4 : Les Sables Mouvants_. Pocket Jeunesse
+- Rodda, E. (2006). _La Quête de Deltora, Tome 5 : Les Montagnes Redoutables_. Pocket Jeunesse
+- Rodda, E. (2006). _La Quête de Deltora, Tome 6 : Le Labyrinthe de la Bête_. Pocket Jeunesse
+- Anderson, E. (2009). _Oscar Pill, Tome 1 :  La Révélation des Médicus_. Albin Michel
+- Anderson, E. (2010). _Oscar Pill, Tome 2 :  Les Deux Royaumes_. Albin Michel
+- Anderson, E. (2011). _Oscar Pill, Tome 3 :  Le Secret des Eternels_. Albin Michel
+- Plichota, A. & Wolf, C. (2009). _Oksa Pollock, Tome 1 : L'Inexpérée_. XO Editions
+- Psyché, D. (2008). _Gaïg, Tome 1 : La Prophétie des Nains_. Michel Quintin
+- Sage, A. (2005). _Magyk, Tome 1 : Livre Un_. Albin Michel
+- Sage, A. (2006). _Magyk, Tome 2 : Le Grand Vol_. Albin Michel
+- Stine, R. L. (2000). _Chair de poule, Tome 74 : Le Fantôme du Miroir_. Bayard
+- Flanagan, J. (2007). _L'Apprenti d'Araluen, Tome 1 : L'Ordre des Rôdeurs_. Hachette
+- Flanagan, J. (2007). _L'Apprenti d'Araluen, Tome 2 : Le Chant des Wargals_. Hachette
+- Flanagan, J. (2008). _L'Apprenti d'Araluen, Tome 3 : La Promesse du Rôdeur_. Hachette
+- Flanagan, J. (2009). _L'Apprenti d'Araluen, Tome 4 : Les Guerriers des Steppes_. Hachette
+- Flanagan, J. (2009). _L'Apprenti d'Araluen, Tome 5 : Le Sorcier du Nord_. Hachette
+- Flanagan, J. (2011). _L'Apprenti d'Araluen, Tome 6 : Le Siège de Macindaw_. Hachette
+- Flanagan, J. (2011). _L'Apprenti d'Araluen, Tome 7 : La Rançon_. Hachette
+- Flanagan, J. (2012). _L'Apprenti d'Araluen, Tome 8 : Les Rois de Clonmel_. Hachette
+- Flanagan, J. (2012). _L'Apprenti d'Araluen, Tome 9 : La Traque des Bannis_. Hachette // Petit doute sur où je me suis arrêté dans cette série
+- Flanagan, J. (2013). _L'Apprenti d'Araluen, Tome 10 : L'Empereur du Nihon-Ja_. Hachette // Petit doute sur où je me suis arrêté dans cette série
+- Robillard, A. (2007). _Les Chevaliers d'Emeraude, Tome 1 : Le Feu dans le Ciel_. Michel Lafon
+- Robillard, A. (2007). _Les Chevaliers d'Emeraude, Tome 2 : Les Dragons de l'Empereur Noir_. Michel Lafon
+- Robillard, A. (2008). _Les Chevaliers d'Emeraude, Tome 3 : Piège au Royaume des Ombres_. Michel Lafon
+- Robillard, A. (2008). _Les Chevaliers d'Emeraude, Tome 4 : La Princesse Rebelle_. Michel Lafon
+- Robillard, A. (2008). _Les Chevaliers d'Emeraude, Tome 5 : L'Ile des Lézards_. Michel Lafon
+- Robillard, A. (2009). _Les Chevaliers d'Emeraude, Tome 6 : Le Journal d'Onix_. Michel Lafon
+- Robillard, A. (2010). _Les Chevaliers d'Emeraude, Tome 7 : L'Enlèvement_. Michel Lafon
+- Robillard, A. (2010). _Les Chevaliers d'Emeraude, Tome 8 : Les Dieux Déchus_. Michel Lafon
+- Robillard, A. (2010). _Les Chevaliers d'Emeraude, Tome 9 : L'Héritage de Danalieth_. Michel Lafon
+- Robillard, A. (2011). _Les Chevaliers d'Emeraude, Tome 10 : Représailles_. Michel Lafon
+- Robillard, A. (2011). _Les Chevaliers d'Emeraude, Tome 11 : La Justice Céleste_. Michel Lafon
+- Robillard, A. (2011). _Les Chevaliers d'Emeraude, Tome 12 : Irianeth_. Michel Lafon
+- Robillard, A. (2011). _Les Héritiers d'Enkidiev, Tome 1 : Renaissance_. Michel Lafon // Petit doute sur où je me suis arrêté dans cette série
+- Robillard, A. (2011). _Les Héritiers d'Enkidiev, Tome 2 : Nouveau Monde_. Michel Lafon // Petit doute sur où je me suis arrêté dans cette série
+- Robillard, A. (2012). _Les Héritiers d'Enkidiev, Tome 3 : Les Dieux Ailés_. Michel Lafon // Petit doute sur où je me suis arrêté dans cette série
+- Robillard, A. (2011). _Les Ailes d'Alexanne, Tome 1 : 4h44_. Michel Lafon 
+- Robillard, A. (2012). _Les Ailes d'Alexanne, Tome 2 : Mikal_. Michel Lafon 
+- Robillard, A. (2010). _A.N.G.E., Tome 1 : Antichristus_. Michel Lafon
+- Robillard, A. (2010). _A.N.G.E., Tome 2 : Reptilis_. Michel Lafon
+- Robillard, A. (2011). _A.N.G.E., Tome 3 : Perfidia_. Michel Lafon
+- Robillard, A. (2011). _A.N.G.E., Tome 4 : Sicarius_. Michel Lafon
+- Robillard, A. (2012). _A.N.G.E., Tome 5 : Codex Angelicus_. Michel Lafon
+- Robillard, A. (2012). _A.N.G.E., Tome 6 : Tribulare_. Michel Lafon
+- Robillard, A. (2013). _A.N.G.E., Tome 7 : Absinthium_. Michel Lafon
+- Robillard, A. (2013). _A.N.G.E., Tome 8 : Periculum_. Michel Lafon
+- Andouin-Mamikonian, S. (2011). _Indiana Teller, Tome 1 : Lune de Printemps_. Michel Lafon
+- Andouin-Mamikonian, S. (2012). _Indiana Teller, Tome 2 : Lune d'Eté_. Michel Lafon
+- Stolarz, L. F. (2009). _Bleu Cauchemar, Tome 1 : Bleu Cauchemar_. Albin Michel
+- Stolarz, L. F. (2009). _Bleu Cauchemar, Tome 2 : Blanc Fantôme_. Albin Michel
+- Stolarz, L. F. (2009). _Bleu Cauchemar, Tome 3 : Gris Secret_. Albin Michel
+- Stolarz, L. F. (2010). _Bleu Cauchemar, Tome 4 : Rouge Souvenir_. Albin Michel
+- Delaney, J. (2005). _L'Epouvanteur, Tome 1 : L'Apprenti Epouvanteur_. Bayard
+- Delaney, J. (2005). _L'Epouvanteur, Tome 2 : La Malédiction de l'Epouvanteur_. Bayard
+- Delaney, J. (2006). _L'Epouvanteur, Tome 3 : Le Secret de l'Epouvanteur_. Bayard
+- Delaney, J. (2007). _L'Epouvanteur, Tome 4 : Le Combat de l'Epouvanteur_. Bayard
+- Delaney, J. (2008). _L'Epouvanteur, Tome 5 : L'Erreur de l'Epouvanteur_. Bayard
+- Delaney, J. (2009). _L'Epouvanteur, Tome 6 : Le Sacrifice de l'Epouvanteur_. Bayard
+- Delaney, J. (2010). _L'Epouvanteur, Tome 7 : Le Cauchemar de l'Epouvanteur_. Bayard
+- Delaney, J. (2012). _L'Epouvanteur, Tome 8 : Le Destin de l'Epouvanteur_. Bayard
+- Delaney, J. (2013). _L'Epouvanteur, Tome 9 : Grimalkin et l'Epouvanteur_. Bayard
+- Delaney, J. (2014). _L'Epouvanteur, Tome 10 : Le Sang de l'Epouvanteur_. Bayard // Petit doute sur où je me suis arrêté dans cette série
+- Delaney, J. (2014). _L'Epouvanteur, Tome 11 : L'Epouvanteur - Le Pacte de Sliter_. Bayard // Petit doute sur où je me suis arrêté dans cette série
+- Delaney, J. (2011). _Les Sorcières de l'Epouvanteur_. Bayard
+- Troisi, L. (2008). _Chroniques du Monde Emergé, Tome 1 : Nihal de la Terre du Vent_. Pocket Jeunesse
+- Troisi, L. (2009). _Chroniques du Monde Emergé, Tome 2 : La Mission de Sennar_. Pocket Jeunesse
+- Troisi, L. (2010). _Chroniques du Monde Emergé, Tome 3 : Le Talisman du Pouvoir_. Pocket Jeunesse
+- Troisi, L. (2010). _Guerres du Monde Emergé, Tome 1 : La Secte des Assasins_. Pocket Jeunesse
+- Troisi, L. (2011). _Guerres du Monde Emergé, Tome 2 : Les Deux Combattantes_. Pocket Jeunesse
+- Troisi, L. (2011). _Guerres du Monde Emergé, Tome 3 : Un Nouveau Règne_. Pocket Jeunesse
+- Troisi, L. (2012). _Légendes du Monde Emergé, Tome 1 : Le Destin d'Adhara_. Pocket Jeunesse
+- Troisi, L. (2012). _Légendes du Monde Emergé, Tome 2 : Fille de Sang_. Pocket Jeunesse
+- Troisi, L. (2013). _Légendes du Monde Emergé, Tome 3 : Les Derniers Héros_. Pocket Jeunesse
+- Clare, C. (2008). _La Cité des Ténèbres, Tome 1 : La Coupe Mortelle_. Pocket Jeunesse
+- Clare, C. (2009). _La Cité des Ténèbres, Tome 2 : L'Epée Mortelle_. Pocket Jeunesse
+- Clare, C. (2010). _La Cité des Ténèbres, Tome 3 : Le Miroir Mortel_. Pocket Jeunesse
+- Clare, C. (2012). _La Cité des Ténèbres, Tome 4 : Les Anges Déchus_. Pocket Jeunesse
+- Clare, C. (2014). _The Mortal Instrument, Tome 5 : La Cité des Ames Perdues_. Pocket Jeunesse // Petit doute sur où je me suis arrêté dans cette série
+- Clare, C. (2015). _The Mortal Instrument, Tome 6 : La Cité du Feu Sacré_. Pocket Jeunesse // Petit doute sur où je me suis arrêté dans cette série
+- Clare, C. (2013). _La Cité des Ténèbres - Les Origines, Tome 1 : L'Ange Mécanique_. Pocket Jeunesse
+- Clare, C. (2014). _La Cité des Ténèbres - Les Origines, Tome 2 : Le Prince Mécanique_. Pocket Jeunesse
+- Clare, C. (2014). _The Mortal Instrument - Les Origines, Tome 3 : La Princesse Mécanique_. Pocket Jeunesse // Petit doute sur où je me suis arrêté dans cette série
+- Hobb, R. (1998). _L'Assassin Royal, Tome 1 : L'Apprenti Assassin_. Pygmalion
+- Hobb, R. (1999). _L'Assassin Royal, Tome 2 : L'Assassin du Roi_. Pygmalion
+- Hobb, R. (1999). _L'Assassin Royal, Tome 3 : La Nef du Crépuscule_. Pygmalion
+- Hobb, R. (2000). _L'Assassin Royal, Tome 4 : Le Poison de la Vengeance_. Pygmalion
+- Hobb, R. (2000). _L'Assassin Royal, Tome 5 : La Voie Magique_. Pygmalion
+- Hobb, R. (2008). _L'Assassin Royal, Tome 6 : La Reine Solitaire_. Flammarion
+- Hobb, R. (2003). _L'Assassin Royal, Tome 7 : Le Prophète Blanc_. Flammarion
+- Hobb, R. (2003). _L'Assassin Royal, Tome 8 : La Secte Maudite_. Flammarion
+- Hobb, R. (2003). _L'Assassin Royal, Tome 9 : Les Secrets de Castelcerf_. Flammarion
+- Hobb, R. (2004). _L'Assassin Royal, Tome 10 : Serments et Deuils_. Flammarion
+- Hobb, R. (2005). _L'Assassin Royal, Tome 11 : Le Dragon des Glaces_. Flammarion
+- Hobb, R. (2005). _L'Assassin Royal, Tome 12 : L'Homme Noir_. Flammarion
+- Hobb, R. (2006). _L'Assassin Royal, Tome 13 : Adieux et Retrouvailles_. Flammarion
+- Hobb, R. (2014). _Le Fou et l'Assassin, Tome 1 : Le Fou et l'Assassin_. Flammarion // Petit doute sur où je me suis arrêté dans cette série
+- Hobb, R. (2015). _Le Fou et l'Assassin, Tome 2 : La Fille de l'Assassin_. Flammarion // Petit doute sur où je me suis arrêté dans cette série
+- Rowling, J. K. (2007). _Harry Potter, Tome 1 : Harry Potter à l'Ecole des Sorciers_. Gallimard
+- Rowling, J. K. (2007). _Harry Potter, Tome 2 : Harry Potter et la Chambre des Secrets_. Gallimard
+- Rowling, J. K. (2007). _Harry Potter, Tome 3 : Harry Potter et le Prisonier d'Askaban_. Gallimard
+- Shelley, M. (2013). _Frankenstein_. Penguin Books
+- Martin, G. R. R. (2008). _Le Trône de Fer : L'Intégrale 1_. Flammarion
+- Salvatore, R. A. (2008). _La Légende de Drizzt, Tome 1 : Terre Natale_. Bragelonne
+- Wilde, O. (2001). _Le Portrait de Dorian Gray_. Librairie Générale Française
+- Orwell, G (1950). _1984_. Gallimard
+- Camus, A. (2005). _L'Etranger_. Folio
+- Vercors. (1952). _Les Animaux Dénaturés_. Albin Michel
+- Damasio, A. (2007). _La Zone du Dehors_. La Volte
+- Damasio, A. (2012). _Aucun Souvenir Assez Solide_. La Volte
+- Damasio, A. (2004). _La Horde du Contrevent_. La Volte
+- Damasio, A. (2019). _Les Furtifs_. La Volte
+- Shirley, J. (2016). _Bioshock : Rapture_. Bragelonne
+- Nisioisin. (2015). _Monogatari, Tome 1 : Kizumonogatari - Wound Tale_. Vertical
+- Nisioisin. (2016). _Monogatari, Tome 2 : Bakemonogatari - Monster Tale Part 01_. Vertical
+- Nisioisin. (2017). _Monogatari, Tome 3 : Bakemonogatari - Monster Tale Part 02_. Vertical
+- Nisioisin. (2017). _Monogatari, Tome 4 : Bakemonogatari - Monster Tale Part 03_. Vertical
+- Nisioisin. (2017). _Monogatari, Tome 5 : Nisemonogatari - Fake Tale Part 01_. Vertical
+- Nisioisin. (2017). _Monogatari, Tome 6 : Nisemonogatari - Fake Tale Part 02_. Vertical
+- Nisioisin. (2017). _Monogatari, Tome 7 : Nekomonogatari - Cat Tale (Black)_. Vertical
+- Nisioisin. (2018). _Monogatari, Tome 8 : Nekomonogatari - Cat Tale (White)_. Vertical
+- Nisioisin. (2018). _Monogatari, Tome 9 : Kabukimonogatari - Dandy Tale_. Vertical
+- Nisioisin. (2018). _Monogatari, Tome 10 : Hanamonogatari - Flower Tale_. Vertical
+- Nisioisin. (2018). _Monogatari, Tome 11 : Otorimonogatari - Decoy Tale_. Vertical
+- Nisioisin. (2018). _Monogatari, Tome 12 : Onimonogatari - Demon Tale_. Vertical
+- Nisioisin. (2019). _Monogatari, Tome 13 : Koimonogatari - Love Tale_. Vertical
+- Nisioisin. (2019). _Monogatari, Tome 14 : Tsukimonogatari - Possession Tale_. Vertical
+- Nisioisin. (2019). _Monogatari, Tome 15 : Koyomimonogatari - Calendar Tale Part 01_. Vertical
+- Nisioisin. (2019). _Monogatari, Tome 16 : Koyomimonogatari - Calendar Tale Part 02_. Vertical
+- Nisioisin. (2019). _Monogatari, Tome 17 : Owarimonogatari - End Tale Part 01_. Vertical
+- Nisioisin. (2020). _Monogatari, Tome 18 : Owarimonogatari - End Tale Part 02_. Vertical
+- Nisioisin. (2020). _Monogatari, Tome 19 : Owarimonogatari - End Tale Part 03_. Vertical
+- Nisioisin. (2020). _Monogatari, Tome 20 : Owarimonogatari - End Tale (Cont.)_. Vertical
+- Mélois, C. (2024). _Alors c'est bien_. Gallimard
+- Dabos, C. (2016). _La Passe-Miroir, Tome 1 : Les Fiancés de l'Hiver_. Gallimard
+- Dabos, C. (2018). _La Passe-Miroir, Tome 2 : Les Disparus du Clairdelune_. Gallimard
+- Dabos, C. (2019). _La Passe-Miroir, Tome 3 : La Mémoire de Babel_. Gallimard
+- Dabos, C. (2021). _La Passe-Miroir, Tome 4 : La Tempête des Echos_. Gallimard
+- Lovecraft, H. P. (2007). _Collected Short Stories, Tome 1 : The Whisperer in Darkness_. Wordsworth Editions
+
+## DB/Manga
+- Peyo. (1963). _Les Schtroumpfs, Tome 1 : Les Schtroumpfs noirs_. Dupuis
+- Peyo. (1965). _Les Schtroumpfs, Tome 2 : Le Schtroumpfissime_. Dupuis
+- Peyo. (1967). _Les Schtroumpfs, Tome 3 : La Schtroumpfette_. Dupuis
+- Peyo. (1968). _Les Schtroumpfs, Tome 4 : L'Oeuf et les Schtroumpfs_. Dupuis
+- Peyo. (1969). _Les Schtroumpfs, Tome 5 : Les Schtroumpfs et le Cracoucass_. Dupuis
+- Peyo. (1970). _Les Schtroumpfs, Tome 6 : Le Cosmoschtroumpf_. Dupuis
+- Peyo. (1971). _Les Schtroumpfs, Tome 7 : L'Apprenti Schtroumpf_. Dupuis
+- Peyo. (1972). _Les Schtroumpfs, Tome 8 : Histoires de Schtroumpfs_. Dupuis
+- Peyo. (1973). _Les Schtroumpfs, Tome 9 : Schtroumpf vert et vert Schtroumpf_. Dupuis
+- Peyo. (1976). _Les Schtroumpfs, Tome 10 : La Soupe aux Schtroumpfs_. Dupuis
+- Peyo. (1983). _Les Schtroumpfs, Tome 11 : Les Schtroumpfs olympiques_. Dupuis
+- Peyo. (1984). _Les Schtroumpfs, Tome 12 : Le Bébé Schtroumpf_. Dupuis
+- Peyo. (1988). _Les Schtroumpfs, Tome 13 : Les P'tits Schtroumpfs_. Dupuis
+- Peyo. (1990). _Les Schtroumpfs, Tome 14 : L'Aéroschtroumpf_. Dupuis
+- Peyo. (1991). _Les Schtroumpfs, Tome 15 : L'Etrange Réveil du Schtroumpf paresseux_. Dupuis
+- Peyo. (1992). _Les Schtroumpfs, Tome 16 : Le Schtroumpf financier_. Dupuis
+- Peyo. (1994). _Les Schtroumpfs, Tome 17 : Le Schtroumpfeur de bijoux_. Dupuis
+- Peyo. (1996). _Les Schtroumpfs, Tome 18 : Docteur Schtroumpf_. Dupuis
+- Peyo. (1998). _Les Schtroumpfs, Tome 19 : Le Schtroumpf sauvage_. Dupuis
+- Peyo. (2000). _Les Schtroumpfs, Tome 20 : La Menace Schtroumpf_. Dupuis
+- Peyo. (2002). _Les Schtroumpfs, Tome 21 : On ne schtroumpf pas le progès_. Dupuis
+- Peyo. (2003). _Les Schtroumpfs, Tome 22 : Le Schtroumpf reporter_. Dupuis
+- Peyo. (2005). _Les Schtroumpfs, Tome 23 : Les Schtroumpfs joueurs_. Dupuis
+- Peyo. (2006). _Les Schtroumpfs, Tome 24 : Salade de Schtroumpfs_. Dupuis
+- Peyo. (2007). _Les Schtroumpfs, Tome 25 : Un enfant chez les Schtroumpfs_. Dupuis
+- Peyo. (2008). _Les Schtroumpfs, Tome 26 : Les Schtroumpfs et le Livre qui dit tout_. Dupuis
+- Peyo. (2009). _Les Schtroumpfs, Tome 27 : Schtroumpf les Bains_. Dupuis
+- Peyo. (2010). _Les Schtroumpfs, Tome 28 : La Grande Schtroumpfette_. Dupuis
+- Peyo. (2011). _Les Schtroumpfs, Tome 29 : Les Schtroumpfs et l'Arbre d'or_. Dupuis
+- Midam. (1996). _Kid Paddle, Tome 1 : Jeux de Vilains_. Dupuis
+- Midam. (1996). _Kid Paddle, Tome 2 : Carnage Total_. Dupuis
+- Midam. (2004). _Game Over, Tome 1 : Blork Raider_. Dupuis
+- Midam. (2006). _Game Over, Tome 2 : No Problemo_. Dupuis
+- Hergé. (1955). _Les Aventures de Tintin, Tome 4 : Les Cigares du Pharaon_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1945). _Les Aventures de Tintin, Tome 12 : Le Trésor de Rackham le Rouge_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1948). _Les Aventures de Tintin, Tome 13 : Les Sept Boules de Cristal_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1949). _Les Aventures de Tintin, Tome 14 : Le Temple du Soleil_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1950). _Les Aventures de Tintin, Tome 14 : Tintin au Pays de l'Or Noir_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1953). _Les Aventures de Tintin, Tome 16 : Objectif Lune_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1968). _Les Aventures de Tintin, Tome 22 : Vol 714 pour Sydney_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Goscinny, R. & Uderzo, A. (2005). _Astérix, Tome 33 : Le Ciel lui Tombe sur la Tête_. Albert René
+- Boulet. (2001). _Rahnarok, Tome 1 : Dragon junior_. Glénat
+- Boulet. (2002). _Rahnarok, Tome 2 : Fées et gestes_. Glénat
+- Pujol, R. & Thitaume. (2012). _The Lapins Crétins, Tome 1 : Bwaaaaaaaaaah !_. Glénat
+- Hamme, J. V. & Rosinski, G. (1980). _Thorgal, Tome 1 : La Magicienne_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1980). _Thorgal, Tome 2 : L'Ile des Mers gelées_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1981). _Thorgal, Tome 3 : Les trois veillards du pays d'Aran_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1982). _Thorgal, Tome 4 : La galère noire_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1983). _Thorgal, Tome 5 : Au-delà des ombres_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1984). _Thorgal, Tome 6 : La chute de Brek Zarith_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1984). _Thorgal, Tome 7 : L'enfant des étoiles_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1985). _Thorgal, Tome 8 : Alinoë_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1985). _Thorgal, Tome 9 : Les archers_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1986). _Thorgal, Tome 10 : Le pays Qâ_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1986). _Thorgal, Tome 11 : Les yeux de Tanatloc_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1987). _Thorgal, Tome 12 : La cité du dieu perdu_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1988). _Thorgal, Tome 13 : Entre terre et lumière_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1989). _Thorgal, Tome 14 : Aaricia_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1989). _Thorgal, Tome 15 : Le maître des montagnes_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1990). _Thorgal, Tome 16 : Louve_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1991). _Thorgal, Tome 17 : La gardienne des clés_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1992). _Thorgal, Tome 18 : L'Epée-Soleil_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1993). _Thorgal, Tome 19 : La Forteresse invisible_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1995). _Thorgal, Tome 20 : La marque des Bannis_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1995). _Thorgal, Tome 21 : La Couronne d'Ogotaï_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1996). _Thorgal, Tome 22 : Géants_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1997). _Thorgal, Tome 23 : La Cage_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1999). _Thorgal, Tome 24 : Arachnéa_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (1999). _Thorgal, Tome 25 : Le Mal bleu_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2001). _Thorgal, Tome 26 : Le Royaume sous le Sable_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2002). _Thorgal, Tome 27 : Le Babare_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2004). _Thorgal, Tome 28 : Kriss de Valnor_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2006). _Thorgal, Tome 29 : Le Sacrifice_. Le Lombard
+- Hamme, J. V. & Rosinski, G. (2007). _Thorgal, Tome 30 : Moi, Jolan_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2008). _Thorgal, Tome 31 : Le Bouclier de Thor_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2010). _Thorgal, Tome 32 : La Bataille d'Asgard_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Hamme, J. V. & Rosinski, G. (2011). _Thorgal, Tome 33 : Le Bateau-Sabre_. Le Lombard // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (1997). _One Piece, Tome 1 : A l'aube d'une grande aventure_. Glénat
+- Oda, E. (1998). _One Piece, Tome 2 : Aux prises avec Baggy et ses hommes_. Glénat
+- Oda, E. (1998). _One Piece, Tome 3 : Piété filiale_. Glénat
+- Oda, E. (1998). _One Piece, Tome 4 : Un chemin en pente raide_. Glénat
+- Oda, E. (1998). _One Piece, Tome 5 : Pour qui sonne le glas_. Glénat
+- Oda, E. (1998). _One Piece, Tome 6 : La grande promesse_. Glénat
+- Oda, E. (1999). _One Piece, Tome 7 : Le vieux schnock_. Glénat
+- Oda, E. (1999). _One Piece, Tome 8 : Pas de souci_. Glénat
+- Oda, E. (1999). _One Piece, Tome 9 : Une jeune fille en pleurs_. Glénat
+- Oda, E. (1999). _One Piece, Tome 10 : OK, let's stand up !_. Glénat
+- Oda, E. (1999). _One Piece, Tome 11 : Le plus grand bandit d'East Blue_. Glénat
+- Oda, E. (2000). _One Piece, Tome 12 : Et ainsi débuta la légende_. Glénat
+- Oda, E. (2000). _One Piece, Tome 13 : Tiens bon !!_. Glénat
+- Oda, E. (2000). _One Piece, Tome 14 : Instinct_. Glénat
+- Oda, E. (2000). _One Piece, Tome 15 : Droit devant !!_. Glénat
+- Oda, E. (2000). _One Piece, Tome 16 : Successeurs_. Glénat
+- Oda, E. (2001). _One Piece, Tome 17 : Les cerisiers d'Hiluluk_. Glénat
+- Oda, E. (2001). _One Piece, Tome 18 : Ace entre en scène_. Glénat
+- Oda, E. (2001). _One Piece, Tome 19 : Rebéllion_. Glénat
+- Oda, E. (2001). _One Piece, Tome 20 : Bataille décisive à Alubarna_. Glénat
+- Oda, E. (2001). _One Piece, Tome 21 : Utopia_. Glénat
+- Oda, E. (2002). _One Piece, Tome 22 : Hope !_. Glénat
+- Oda, E. (2002). _One Piece, Tome 23 : L'aventure de Vivi_. Glénat
+- Oda, E. (2002). _One Piece, Tome 24 : Croire en ses rêves_. Glénat
+- Oda, E. (2002). _One Piece, Tome 25 : L'homme qui valait 100 millions_. Glénat
+- Oda, E. (2002). _One Piece, Tome 26 : Aventure sur l'île de Dieu_. Glénat
+- Oda, E. (2003). _One Piece, Tome 27 : Prélude_. Glénat
+- Oda, E. (2003). _One Piece, Tome 28 : Wiper le démon furieux_. Glénat
+- Oda, E. (2003). _One Piece, Tome 29 : Oratorio_. Glénat
+- Oda, E. (2003). _One Piece, Tome 30 : Capriccio_. Glénat
+- Oda, E. (2003). _One Piece, Tome 31 : Nous sommes là_. Glénat
+- Oda, E. (2004). _One Piece, Tome 32 : Love song_. Glénat
+- Oda, E. (2004). _One Piece, Tome 33 : Davy back fight !!_. Glénat
+- Oda, E. (2004). _One Piece, Tome 34 : Water Seven, la cité sur l'eau_. Glénat
+- Oda, E. (2004). _One Piece, Tome 35 : Capitaine_. Glénat
+- Oda, E. (2005). _One Piece, Tome 36 : Justice n°9_. Glénat
+- Oda, E. (2005). _One Piece, Tome 37 : Monsieur Tom_. Glénat
+- Oda, E. (2005). _One Piece, Tome 38 : Rocketman !_. Glénat
+- Oda, E. (2005). _One Piece, Tome 39 : Opération sauvetage_. Glénat
+- Oda, E. (2005). _One Piece, Tome 40 : Gear_. Glénat
+- Oda, E. (2006). _One Piece, Tome 41 : Déclaration de guerre_. Glénat
+- Oda, E. (2006). _One Piece, Tome 42 : Les pirates contre le CP9_. Glénat
+- Oda, E. (2006). _One Piece, Tome 43 : La légende du héros_. Glénat
+- Oda, E. (2006). _One Piece, Tome 44 : "Rentrons"_. Glénat
+- Oda, E. (2007). _One Piece, Tome 45 : Je comprends ce que vous ressentez_. Glénat
+- Oda, E. (2007). _One Piece, Tome 46 : Aventure sur l'île fantôme_. Glénat
+- Oda, E. (2007). _One Piece, Tome 47 : Temps couvert avec chutes d'os par moments_. Glénat
+- Oda, E. (2007). _One Piece, Tome 48 : L'aventure d'Oz_. Glénat
+- Oda, E. (2008). _One Piece, Tome 49 : Nightmare Luffy_. Glénat
+- Oda, E. (2008). _One Piece, Tome 50 : De nouveau face au mur_. Glénat
+- Oda, E. (2008). _One Piece, Tome 51 : Les onze supernovae_. Glénat
+- Oda, E. (2008). _One Piece, Tome 52 : Roger & Rayleigh_. Glénat
+- Oda, E. (2009). _One Piece, Tome 53 : Le tempérament d'un roi_. Glénat
+- Oda, E. (2009). _One Piece, Tome 54 : Plus personne ne m'arrêtera_. Glénat
+- Oda, E. (2009). _One Piece, Tome 55 : Un travelo en enfer_. Glénat
+- Oda, E. (2010). _One Piece, Tome 56 : Merci pour tout_. Glénat
+- Oda, E. (2010). _One Piece, Tome 57 : Guerre au sommet_. Glénat
+- Oda, E. (2010). _One Piece, Tome 58 : L'ère de Barbe Blanche_. Glénat
+- Oda, E. (2010). _One Piece, Tome 59 : La mort de Portgas D. Ace_. Glénat
+- Oda, E. (2010). _One Piece, Tome 60 : Petit frère_. Glénat
+- Oda, E. (2011). _One Piece, Tome 61 : A l'aube d'une grande aventure vers le nouveau monde_. Glénat
+- Oda, E. (2011). _One Piece, Tome 62 : Périple sur l'île des hommes-poissons_. Glénat
+- Oda, E. (2011). _One Piece, Tome 63 : Otohime et Tiger_. Glénat
+- Oda, E. (2011). _One Piece, Tome 64 : 100 000 vs 10_. Glénat
+- Oda, E. (2012). _One Piece, Tome 65 : Table rase_. Glénat
+- Oda, E. (2012). _One Piece, Tome 66 : Vers le soleil_. Glénat
+- Oda, E. (2012). _One Piece, Tome 67 : Cool fight_. Glénat
+- Oda, E. (2012). _One Piece, Tome 68 : Alliance entre pirates_. Glénat
+- Oda, E. (2013). _One Piece, Tome 69 : Sad_. Glénat
+- Oda, E. (2013). _One Piece, Tome 70 : Doflamingo sort de l'ombre_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2013). _One Piece, Tome 71 : Le colisée de tous les dangers_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2013). _One Piece, Tome 72 : Les oubliés de Dressrosa_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2014). _One Piece, Tome 73 : L'opération Dressrosa S.O.P._. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2014). _One Piece, Tome 74 : Je serai toujours à tes côtés_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 75 : Ma gratitude_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 76 : Poursuis ta route_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 77 : Smile_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 78 : L'icône du mal_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 79 : Lucy !!_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Oda, E. (2015). _One Piece, Tome 80 : Vers une bataille sans précédent_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2003). _Beach, Tome 1 : The death and the strawberry_. Glénat
+- Kubo, T. (2003). _Beach, Tome 2 : Goodbye parakeet, goodnite my sista_. Glénat
+- Kubo, T. (2003). _Beach, Tome 3 : Memories in the rain_. Glénat
+- Kubo, T. (2004). _Beach, Tome 4 : Quincy Archer hates you_. Glénat
+- Kubo, T. (2004). _Beach, Tome 5 : Rightarm of the giant_. Glénat
+- Kubo, T. (2004). _Beach, Tome 6 : The death trilogy overture_. Glénat
+- Kubo, T. (2004). _Beach, Tome 7 : The broken coda_. Glénat
+- Kubo, T. (2004). _Beach, Tome 8 : The blade and me_. Glénat
+- Kubo, T. (2005). _Beach, Tome 9 : Fourteen days for conspiracy_. Glénat
+- Kubo, T. (2005). _Beach, Tome 10 : Tatoo on the sky_. Glénat
+- Kubo, T. (2005). _Beach, Tome 11 : A star and a stay dog_. Glénat
+- Kubo, T. (2005). _Beach, Tome 12 : Flower on the precipice_. Glénat
+- Kubo, T. (2005). _Beach, Tome 13 : The undead_. Glénat
+- Kubo, T. (2006). _Beach, Tome 14 : White tower rocks_. Glénat
+- Kubo, T. (2006). _Beach, Tome 15 : Beginning of the death of tomorrow_. Glénat
+- Kubo, T. (2006). _Beach, Tome 16 : Night of Wijnruit_. Glénat
+- Kubo, T. (2006). _Beach, Tome 17 : Rosa Rubicundior, Lilio Candidior_. Glénat
+- Kubo, T. (2006). _Beach, Tome 18 : The deathberry returns_. Glénat
+- Kubo, T. (2006). _Beach, Tome 19 : The black moon rising_. Glénat
+- Kubo, T. (2007). _Beach, Tome 20 : End of hypnosis_. Glénat
+- Kubo, T. (2007). _Beach, Tome 21 : Be my family or not_. Glénat
+- Kubo, T. (2007). _Beach, Tome 22 : Conquistadores_. Glénat
+- Kubo, T. (2007). _Beach, Tome 23 : Mala suerte!_. Glénat
+- Kubo, T. (2007). _Beach, Tome 24 : Immanent god blues_. Glénat
+- Kubo, T. (2008). _Beach, Tome 25 : Noshaking throne_. Glénat
+- Kubo, T. (2008). _Beach, Tome 26 : The mascaron drive_. Glénat
+- Kubo, T. (2008). _Beach, Tome 27 : Goodbye halcyon days_. Glénat
+- Kubo, T. (2008). _Beach, Tome 28 : Baron's lecture full-course_. Glénat
+- Kubo, T. (2008). _Beach, Tome 29 : The slashing opera_. Glénat
+- Kubo, T. (2009). _Beach, Tome 30 : There is no heart without you_. Glénat
+- Kubo, T. (2009). _Beach, Tome 31 : Don't kill my volupture_. Glénat
+- Kubo, T. (2009). _Beach, Tome 32 : Howling_. Glénat
+- Kubo, T. (2009). _Beach, Tome 33 : The bad joke_. Glénat
+- Kubo, T. (2009). _Beach, Tome 34 : King of the kill_. Glénat
+- Kubo, T. (2010). _Beach, Tome 35 : Higher than the moon_. Glénat
+- Kubo, T. (2010). _Beach, Tome 36 : Turn back the pendulum_. Glénat
+- Kubo, T. (2010). _Beach, Tome 37 : Beauty is so solitary_. Glénat
+- Kubo, T. (2010). _Beach, Tome 38 : Fear for fight_. Glénat
+- Kubo, T. (2010). _Beach, Tome 39 : El verdugo_. Glénat
+- Kubo, T. (2011). _Beach, Tome 40 : The lust_. Glénat
+- Kubo, T. (2011). _Beach, Tome 41 : Heart_. Glénat
+- Kubo, T. (2011). _Beach, Tome 42 : Shock of the queen_. Glénat
+- Kubo, T. (2011). _Beach, Tome 43 : Kingdom of hollows_. Glénat
+- Kubo, T. (2011). _Beach, Tome 44 : Vice it_. Glénat
+- Kubo, T. (2011). _Beach, Tome 45 : The burnout inferno_. Glénat
+- Kubo, T. (2012). _Beach, Tome 46 : Back from blind_. Glénat
+- Kubo, T. (2012). _Beach, Tome 47 : End of the chrysalis_. Glénat
+- Kubo, T. (2012). _Beach, Tome 48 : God is dead_. Glénat
+- Kubo, T. (2012). _Beach, Tome 49 : The lost agent_. Glénat
+- Kubo, T. (2012). _Beach, Tome 50 : The six fullbringer_. Glénat
+- Kubo, T. (2013). _Beach, Tome 51 : Love me bitterly, loth me sweetly_. Glénat
+- Kubo, T. (2013). _Beach, Tome 52 : End of bond_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 53 : The deathberry returns 2_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 54 : Goodbye to our xcution_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2013). _Beach, Tome 55 : The blood warfare_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 56 : March of the starcross_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 57 : Out of bloom_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 58 : The fire_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 59 : The battle_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2014). _Beach, Tome 60 : Everything but the rain_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Kubo, T. (2015). _Beach, Tome 61 : The last 9 days_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 1_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 2_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 3_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 4_. Glénat
+- Ishida, S. (2012). _Tokyo Ghoul, Tome 5_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 6_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 7_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 8_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 9_. Glénat
+- Ishida, S. (2013). _Tokyo Ghoul, Tome 10_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 11_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 12_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 13_. Glénat
+- Ishida, S. (2014). _Tokyo Ghoul, Tome 14_. Glénat // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 1_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 2_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 3_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 4_. Pika Edition
+- Isayama, H. (2013). _L'Attaque des Titans, Tome 5_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 6_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 7_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 8_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 9_. Pika Edition
+- Isayama, H. (2014). _L'Attaque des Titans, Tome 10_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 11_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 12_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 13_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 14_. Pika Edition
+- Isayama, H. (2015). _L'Attaque des Titans, Tome 15_. Pika Edition
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 16_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 17_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 18_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 19_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Isayama, H. (2016). _L'Attaque des Titans, Tome 20_. Pika Edition // Petit doute sur où je me suis arrêté dans cette série
+- Gazzotti, B. & Vehlmann, F. (2006). _Seuls, Tome 1 : La disparition_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2006). _Seuls, Tome 2 : Le maître des couteaux_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2007). _Seuls, Tome 3 : Le clan du requin_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2008). _Seuls, Tome 4 : Les Cairns rouges_. Dupuis
+- Gazzotti, B. & Vehlmann, F. (2008). _Seuls, Tome 5 : Au coeur du Maelström_. Dupuis // Petit doute sur où je me suis arrêté dans cette série
+- Arleston, C. & Mourier, J. L. (1997). _Trolls de Troy, Tome 1 : Histoires Trolles_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (1998). _Trolls de Troy, Tome 2 : Le Scalp du Vénérable_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (1999). _Trolls de Troy, Tome 3 : Comme un vol de Pétaures_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (2000). _Trolls de Troy, Tome 4 : Le Feu occulte_. Editions Soleil
+- Arleston, C. & Mourier, J. L. (2001). _Trolls de Troy, Tome 5 : Maléfices de Thaumaturge_. Editions Soleil // Petit doute sur où je me suis arrêté dans cette série
+- Hergé. (2000). _Tintin au pays des Soviets_. Casterman
+- Lang, J. & Poinsot, M. (2005). _Le Donjon de Naheulbeuk, Tome 1_. Clair De Lune
+- Lang, J. & Poinsot, M. (2005). _Le Donjon de Naheulbeuk, Tome 2_. Clair De Lune
+- Lang, J. & Poinsot, M. (2006). _Le Donjon de Naheulbeuk, Tome 3_. Clair De Lune
+- Lang, J. & Poinsot, M. (2007). _Le Donjon de Naheulbeuk, Tome 4_. Clair De Lune
+- Lang, J. & Poinsot, M. (2008). _Le Donjon de Naheulbeuk, Tome 5_. Clair De Lune
+- Lang, J. & Poinsot, M. (2009). _Le Donjon de Naheulbeuk, Tome 6_. Clair De Lune
+- Lang, J. & Poinsot, M. (2010). _Le Donjon de Naheulbeuk, Tome 7_. Clair De Lune
+- Lang, J. & Poinsot, M. (2011). _Le Donjon de Naheulbeuk, Tome 8_. Clair De Lune
+- Lang, J. & Poinsot, M. (2011). _Le Donjon de Naheulbeuk, Tome 9_. Clair De Lune
+- Lang, J. & Poinsot, M. (2012). _Le Donjon de Naheulbeuk, Tome 10_. Clair De Lune
+- Lang, J. & Poinsot, M. (2012). _Le Donjon de Naheulbeuk, Tome 11_. Clair De Lune
+- Lang, J. & Poinsot, M. (2013). _Le Donjon de Naheulbeuk, Tome 12_. Clair De Lune
+- Lang, J. & Poinsot, M. (2013). _Le Donjon de Naheulbeuk, Tome 13_. Clair De Lune
+- Lang, J. & Poinsot, M. (2014). _Le Donjon de Naheulbeuk, Tome 14_. Clair De Lune
+- Lang, J. & Poinsot, M. (2014). _Le Donjon de Naheulbeuk, Tome 15_. Clair De Lune // Petit doute sur où je me suis arrêté dans cette série
+- Lang, J. & Poinsot, M. (2008). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 1 : Bière, Monstre et Bière_. Clair De Lune
+- Lang, J. & Poinsot, M. (2009). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 2 : Des Boudins et des Elfes_. Clair De Lune
+- Lang, J. & Poinsot, M. (2010). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 3 : La Vie d'Aventurier_. Clair De Lune
+- Akizuki, R. & Nakashima, K. (2013). _Kill La Kill, Tome 1_. Kana
+- Hasemi, S. & Yabuki, K. (2008). _To Love Ru, Tome 1 : La fille tombée du ciel_. Tonkam
+- Hasemi, S. & Yabuki, K. (2008). _To Love Ru, Tome 2 : Voyage mouvementé et bains de vapeur_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 3 : Intrusion dans le jardin secret !_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 4 : Je voudrais le connaître_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 5 : Ombre Dorée_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 6 : Repartir à zéro_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 7 : Haruna est amoureuse ?_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 8 : L'île de la survie_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 9 : Une nuit pas comme les autres_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 10 : Bataille aux bains publics_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 11 : Trouble quest_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 12 : Un garçon efféminé_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 13 : Un soir de festival_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 14 : Amies plus de rivales_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 15 : Princesse pétales_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 16 : Un garçon, des chocolats... et moi_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 17 : les sentiments féminins_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 18 : Je les aime toutes !_. Tonkam
+- Hasemi, S. & Yabuki, K. (2013). _To Love Darkness, Tome 1_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 2_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 3_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 4_. Tonkam
+- Hasemi, S. & Yabuki, K. (2012). _To Love Darkness, Tome 5_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 6_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 7_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 8_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 9_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 10_. Tonkam
+- Hasemi, S. & Yabuki, K. (2015). _To Love Darkness, Tome 11_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 12_. Tonkam
+- Hasemi, S. & Yabuki, K. (2015). _To Love Darkness, Tome 13_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 14_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 15_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 16_. Tonkam
+- Hasemi, S. & Yabuki, K. (2017). _To Love Darkness, Tome 17_. Tonkam
+- Hasemi, S. & Yabuki, K. (2017). _To Love Darkness, Tome 18_. Tonkam
+
+## Autres lectures
+- Gaignard, A. M. & Saint-Remy, F. (2003). _Hugo et les rois Etre et Avoir, Tome 1 : Hugo et les rois Etre et Avoir_. Le Robert
+- Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 2 : Hugo joue à cache-cache avec les rois_. Le Robert
+- Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 3 : Hugo au royaume de sujets dangereux_. Le Robert
+- Drake, E. (2005). _Petit manuel de dragonologie_. Milan
+- Drake, E. (2006). _Comment élever son bébé dragon_. Milan
+- Nigg, J. (2007). _Dragon - Le guide du maître_. Nathan
+- Drake, E. (2004). _Dragonologie - encyclopédie des Dragons_. Milan
+- Drake, E. (2006). _Dragonologie - Le guide officiel - comment chasser et dresser les dragons_. Milan
+- Constantini, F. (2006). _Les dragons - Petit traité de sciences naturelles_. Au Bord des Continents
+- Prest, P. & Peldsato, C. (2005). _Contes et Légendes du Chateau de Malbrouck : Vielbik et le dragon_. Le Minibus
+- Black'Mor, E. (2006). _Sur la Piste des Dragons Oubliés, Tome 1_. Au Bord des Continents...
+- Black'Mor, E. (2006). _Sur la Piste des Dragons Oubliés, Tome 2_. Au Bord des Continents...
+- Black'Mor, E. (2007). _Sur la Piste des Dragons Oubliés, Tome 3_. Au Bord des Continents...
+- Collectif (2015). _Minecraft : Le Guide Officiel Pour Bien Débuter_. Gallimard Jeunesse
+- Collectif (2015). _Minecraft : Redstone - Le Guide Officiel_. Gallimard Jeunesse
+- Racine, J. (2013). _Andromaque_. Flammarion
+- Annouilh, J. (2008). _Antigone_. La Petite Vermillon
+- Giraudoux, J. (2015). _Electre_. Flammarion
+- Voltaire. (2010). _Zadig_. Belin Gallimard
+- Balzac, H. (2013). _Le Père Goriot_. Belin Gallimard
+- Apollinaire, G. (2009). _Alcools_. Belin Gallimard
+- Voltaire. (2009). _Candide_. Belin Gallimard
+- Delaney, J. (2013). _Le Bestiaire de l'Epouvanteur_. Bayard
+- Damasio, A. & Mayet, B. (2016). _Le Dehors de Toute Chose_. La Volte
+- Nietzsche, F. (2000). _Par-Delà le Bien et le Mal_. Librairie Générale Française
+- Nietzsche, F. (1971). _Ainsi Parlait Zarathoustra_. Gallimard
+- Nietzsche, F. (2002). _Généalogie de la Morale_. Flammarion
+- Nietzsche, F. (1993). _Le Gai Savoir_. Librairie Générale Française
+- Descartes, R. (1990). _Méditations Métaphysiques_. Librairie Générale Française
+- Inman, M. (2013). _Comment Savoir si votre Chat Cherche à vous Tuer_. 12 Bis
+- _Dofus Mag_. (2008, Août - Septembre). 5. Ankama
+- _Dofus Mag_. (2008, Octobre - Novembre). 6. Ankama
+- _Dofus Mag_. (2008 - 2009, Decembre - Janvier). 7. Ankama
+- _Dofus Mag_. (2008, Septembre) Hors série 1. Ankama
+- Mearls, M. & Crawford, J. (2017). _D&D Player's Handbook : Manuel des Joueurs_. Black Book Edition
+- Mearls, M. & Crawford, J. (2017). _D&D Monster Manual : Manuel des Monstres_. Black Book Edition
+- Mearls, M. & Crawford, J. (2017). _D&D Dungeon Master's Guide : Guide du Maître_. Black Book Edition
+
+## Relecture
+
+Je prévois déjà une catégorie relecture pour les listes que je ferai par la suite. 
+J'avoue que dans tous les livres cités ci dessus, il y a certain en particulier (coucou les bouquins de Pierre Bottero entre autres) que j'ai relu un paquet de fois mdr.
+Bref voilà c'est tout.
+
+## Notes Supplémentaires
+
+Je me laisse évidemment le droit de revenir sur cette page pour mettre à jour des informations que j'aurai oublié.
+Et je me laisse aussi le droit de laisser certains points un peu brouillon si je ne retrouve pas toutes les infos. (Ce sera plus clair dans les pages suivantes)
