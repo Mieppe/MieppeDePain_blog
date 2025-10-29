@@ -414,14 +414,102 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Arleston, C. & Mourier, J. L. (2000). _Trolls de Troy, Tome 4 : Le Feu occulte_. Editions Soleil
 - Arleston, C. & Mourier, J. L. (2001). _Trolls de Troy, Tome 5 : Maléfices de Thaumaturge_. Editions Soleil // Petit doute sur où je me suis arrêté dans cette série
 - Hergé. (2000). _Tintin au pays des Soviets_. Casterman
-
-
-- To love Ru (FR)
-- Les Schtroumpf, Peyo, Tomes 1 à 29 (FR)
-- Le Donjon de Nahleulbeuk, Lang - Poinsot, Tomes 1 à 15 (FR)
-- quelques tintins
-- quelques asterixxx ?
-- kidpaddle
+- Lang, J. & Poinsot, M. (2005). _Le Donjon de Naheulbeuk, Tome 1_. Clair De Lune
+- Lang, J. & Poinsot, M. (2005). _Le Donjon de Naheulbeuk, Tome 2_. Clair De Lune
+- Lang, J. & Poinsot, M. (2006). _Le Donjon de Naheulbeuk, Tome 3_. Clair De Lune
+- Lang, J. & Poinsot, M. (2007). _Le Donjon de Naheulbeuk, Tome 4_. Clair De Lune
+- Lang, J. & Poinsot, M. (2008). _Le Donjon de Naheulbeuk, Tome 5_. Clair De Lune
+- Lang, J. & Poinsot, M. (2009). _Le Donjon de Naheulbeuk, Tome 6_. Clair De Lune
+- Lang, J. & Poinsot, M. (2010). _Le Donjon de Naheulbeuk, Tome 7_. Clair De Lune
+- Lang, J. & Poinsot, M. (2011). _Le Donjon de Naheulbeuk, Tome 8_. Clair De Lune
+- Lang, J. & Poinsot, M. (2011). _Le Donjon de Naheulbeuk, Tome 9_. Clair De Lune
+- Lang, J. & Poinsot, M. (2012). _Le Donjon de Naheulbeuk, Tome 10_. Clair De Lune
+- Lang, J. & Poinsot, M. (2012). _Le Donjon de Naheulbeuk, Tome 11_. Clair De Lune
+- Lang, J. & Poinsot, M. (2013). _Le Donjon de Naheulbeuk, Tome 12_. Clair De Lune
+- Lang, J. & Poinsot, M. (2013). _Le Donjon de Naheulbeuk, Tome 13_. Clair De Lune
+- Lang, J. & Poinsot, M. (2014). _Le Donjon de Naheulbeuk, Tome 14_. Clair De Lune
+- Lang, J. & Poinsot, M. (2014). _Le Donjon de Naheulbeuk, Tome 15_. Clair De Lune // Petit doute sur où je me suis arrêté dans cette série
+- Lang, J. & Poinsot, M. (2008). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 1 : Bière, Monstre et Bière_. Clair De Lune
+- Lang, J. & Poinsot, M. (2009). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 2 : Des Boudins et des Elfes_. Clair De Lune
+- Lang, J. & Poinsot, M. (2010). _Les Arcanes de Naheulbeuk - L'Arrière Boutique de la Terre de Fangh, Tome 3 : La Vie d'Aventurier_. Clair De Lune
+- Akizuki, R. & Nakashima, K. (2013). _Kill La Kill, Tome 1_. Kana
+- Hasemi, S. & Yabuki, K. (2008). _To Love Ru, Tome 1 : La fille tombée du ciel_. Tonkam
+- Hasemi, S. & Yabuki, K. (2008). _To Love Ru, Tome 2 : Voyage mouvementé et bains de vapeur_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 3 : Intrusion dans le jardin secret !_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 4 : Je voudrais le connaître_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 5 : Ombre Dorée_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 6 : Repartir à zéro_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 7 : Haruna est amoureuse ?_. Tonkam
+- Hasemi, S. & Yabuki, K. (2009). _To Love Ru, Tome 8 : L'île de la survie_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 9 : Une nuit pas comme les autres_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 10 : Bataille aux bains publics_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 11 : Trouble quest_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 12 : Un garçon efféminé_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 13 : Un soir de festival_. Tonkam
+- Hasemi, S. & Yabuki, K. (2010). _To Love Ru, Tome 14 : Amies plus de rivales_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 15 : Princesse pétales_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 16 : Un garçon, des chocolats... et moi_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 17 : les sentiments féminins_. Tonkam
+- Hasemi, S. & Yabuki, K. (2011). _To Love Ru, Tome 18 : Je les aime toutes !_. Tonkam
+- Hasemi, S. & Yabuki, K. (2013). _To Love Darkness, Tome 1_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 2_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 3_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 4_. Tonkam
+- Hasemi, S. & Yabuki, K. (2012). _To Love Darkness, Tome 5_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 6_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 7_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 8_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 9_. Tonkam
+- Hasemi, S. & Yabuki, K. (2014). _To Love Darkness, Tome 10_. Tonkam
+- Hasemi, S. & Yabuki, K. (2015). _To Love Darkness, Tome 11_. Tonkam
+- Hasemi, S. & Yabuki, K. (2018). _To Love Darkness, Tome 12_. Tonkam
+- Hasemi, S. & Yabuki, K. (2015). _To Love Darkness, Tome 13_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 14_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 15_. Tonkam
+- Hasemi, S. & Yabuki, K. (2016). _To Love Darkness, Tome 16_. Tonkam
+- Hasemi, S. & Yabuki, K. (2017). _To Love Darkness, Tome 17_. Tonkam
+- Hasemi, S. & Yabuki, K. (2017). _To Love Darkness, Tome 18_. Tonkam
+- Peyo. (1963). _Les Schtroumpfs, Tome 1 : Les Schtroumpfs noirs_. Dupuis
+- Peyo. (1965). _Les Schtroumpfs, Tome 2 : Le Schtroumpfissime_. Dupuis
+- Peyo. (1967). _Les Schtroumpfs, Tome 3 : La Schtroumpfette_. Dupuis
+- Peyo. (1968). _Les Schtroumpfs, Tome 4 : L'Oeuf et les Schtroumpfs_. Dupuis
+- Peyo. (1969). _Les Schtroumpfs, Tome 5 : Les Schtroumpfs et le Cracoucass_. Dupuis
+- Peyo. (1970). _Les Schtroumpfs, Tome 6 : Le Cosmoschtroumpf_. Dupuis
+- Peyo. (1971). _Les Schtroumpfs, Tome 7 : L'Apprenti Schtroumpf_. Dupuis
+- Peyo. (1972). _Les Schtroumpfs, Tome 8 : Histoires de Schtroumpfs_. Dupuis
+- Peyo. (1973). _Les Schtroumpfs, Tome 9 : Schtroumpf vert et vert Schtroumpf_. Dupuis
+- Peyo. (1976). _Les Schtroumpfs, Tome 10 : La Soupe aux Schtroumpfs_. Dupuis
+- Peyo. (1983). _Les Schtroumpfs, Tome 11 : Les Schtroumpfs olympiques_. Dupuis
+- Peyo. (1984). _Les Schtroumpfs, Tome 12 : Le Bébé Schtroumpf_. Dupuis
+- Peyo. (1988). _Les Schtroumpfs, Tome 13 : Les P'tits Schtroumpfs_. Dupuis
+- Peyo. (1990). _Les Schtroumpfs, Tome 14 : L'Aéroschtroumpf_. Dupuis
+- Peyo. (1991). _Les Schtroumpfs, Tome 15 : L'Etrange Réveil du Schtroumpf paresseux_. Dupuis
+- Peyo. (1992). _Les Schtroumpfs, Tome 16 : Le Schtroumpf financier_. Dupuis
+- Peyo. (1994). _Les Schtroumpfs, Tome 17 : Le Schtroumpfeur de bijoux_. Dupuis
+- Peyo. (1996). _Les Schtroumpfs, Tome 18 : Docteur Schtroumpf_. Dupuis
+- Peyo. (1998). _Les Schtroumpfs, Tome 19 : Le Schtroumpf sauvage_. Dupuis
+- Peyo. (2000). _Les Schtroumpfs, Tome 20 : La Menace Schtroumpf_. Dupuis
+- Peyo. (2002). _Les Schtroumpfs, Tome 21 : On ne schtroumpf pas le progès_. Dupuis
+- Peyo. (2003). _Les Schtroumpfs, Tome 22 : Le Schtroumpf reporter_. Dupuis
+- Peyo. (2005). _Les Schtroumpfs, Tome 23 : Les Schtroumpfs joueurs_. Dupuis
+- Peyo. (2006). _Les Schtroumpfs, Tome 24 : Salade de Schtroumpfs_. Dupuis
+- Peyo. (2007). _Les Schtroumpfs, Tome 25 : Un enfant chez les Schtroumpfs_. Dupuis
+- Peyo. (2008). _Les Schtroumpfs, Tome 26 : Les Schtroumpfs et le Livre qui dit tout_. Dupuis
+- Peyo. (2009). _Les Schtroumpfs, Tome 27 : Schtroumpf les Bains_. Dupuis
+- Peyo. (2010). _Les Schtroumpfs, Tome 28 : La Grande Schtroumpfette_. Dupuis
+- Peyo. (2011). _Les Schtroumpfs, Tome 29 : Les Schtroumpfs et l'Arbre d'or_. Dupuis
+- Midam. (1996). _Kid Paddle, Tome 1 : Jeux de Vilains_. Dupuis
+- Midam. (1996). _Kid Paddle, Tome 2 : Carnage Total_. Dupuis
+- Midam. (2004). _Game Over, Tome 1 : Blork Raider_. Dupuis
+- Midam. (2006). _Game Over, Tome 2 : No Problemo_. Dupuis
+- Hergé. (1955). _Les Aventures de Tintin, Tome 4 : Les Cigares du Pharaon_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1945). _Les Aventures de Tintin, Tome 12 : Le Trésor de Rackham le Rouge_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1948). _Les Aventures de Tintin, Tome 13 : Les Sept Boules de Cristal_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1949). _Les Aventures de Tintin, Tome 14 : Le Temple du Soleil_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1950). _Les Aventures de Tintin, Tome 14 : Tintin au Pays de l'Or Noir_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1953). _Les Aventures de Tintin, Tome 16 : Objectif Lune_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Hergé. (1968). _Les Aventures de Tintin, Tome 22 : Vol 714 pour Sydney_. Casterman // Pas certain exactement de quels tomes j'ai lu, je note ceux qui me disent quelque chose
+- Goscinny, R. & Uderzo, A. (2005). _Astérix, Tome 33 : Le Ciel lui Tombe sur la Tête_. Albert René
 
 ## Autres lectures
 - Collectif (2015). _Minecraft : Le Guide Officiel Pour Bien Débuter_. Gallimard Jeunesse
@@ -447,17 +535,20 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - _Dofus Mag_. (2008, Octobre - Novembre). 6. Ankama
 - _Dofus Mag_. (2008 - 2009, Decembre - Janvier). 7. Ankama
 - _Dofus Mag_. (2008, Septembre) Hors série 1. Ankama
-
-- Antigone, jean Anouilh (FR)
-- Hugo et les rois Être et Avoir, Anne-Marie Gaignard, Tomes 1 à 3 (FR)
-- Petit manuel de dragonologie, Ernest Drake (FR)
-- Comment élever son bébé dragon, Ernest Drake (FR)
-- Dragon - le guide du maitre, Topsell - Nigg (FR)
-- Vielbik et le dragon, Pyerrot Prest et Claire Peldsato (FR)
-- Les dragons - petit traité de sciences naturelles (FR)
-- Dragonologie - le guide officiel - comment chasser et dresser les dragons (FR)
-- Dragonologie - encyclopédie des dragons (FR)
-- Donjon et dragon le guide du maitre, truc des jouers, monstres
+- Annouilh, J. (2008). _Antigone_. La Petite Vermillon
+- Gaignard, A. M. & Saint-Remy, F. (2003). _Hugo et les rois Etre et Avoir, Tome 1 : Hugo et les rois Etre et Avoir_. Le Robert
+- Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 2 : Hugo joue à cache-cache avec les rois_. Le Robert
+- Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 3 : Hugo au royaume de sujets dangereux_. Le Robert
+- Drake, E. (2005). _Petit manuel de dragonologie_. Milan
+- Drake, E. (2006). _Comment élever son bébé dragon_. Milan
+- Nigg, J. (2007). _Dragon - Le guide du maître_. Nathan
+- Constantini, F. (2006). _Les dragons - Petit traité de sciences naturelles_. Au Bord des Continents
+- Drake, E. (2004). _Dragonologie - encyclopédie des Dragons_. Milan
+- Drake, E. (2006). _Dragonologie - Le guide officiel - comment chasser et dresser les dragons_. Milan
+- Prest, P. & Peldsato, C. (2005). _Contes et Légendes du Chateau de Malbrouck : Vielbik et le dragon_. Le Minibus
+- Mearls, M. & Crawford, J. (2017). _D&D Player's Handbook : Manuel des Joueurs_. Black Book Edition
+- Mearls, M. & Crawford, J. (2017). _D&D Monster Manual : Manuel des Monstres_. Black Book Edition
+- Mearls, M. & Crawford, J. (2017). _D&D Dungeon Master's Guide : Guide du Maître_. Black Book Edition
 
 ## Relecture
 
