@@ -21,6 +21,7 @@ Bref, assez blablaté, c'est parti pour la liste des choses que j'ai déjà lu. 
 Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à condition qu'il s'agissent de choses assez différentes. En règle générale, je sépare donc mes lectures principales (on va dire "livres de chevet"), des DB/Manga, et des "autres lectures" souvent plus prises de tête, ou simplement que je ne sais pas trop comment classer. Je vais donc tenter de maintenir cette distinction ici.
 
 ## Livres de Chevet
+- Dami, E. (2005). _Geronimo Stilton - Le Royaume de la Fantaisie, Tome 1 : Le Royaume de la Fantasie_. Albin Michel
 - Lewis, C. S. (2002). _Le Monde de Narnia, Tome 1 : Le Neveu du Magicien_. Gallimard
 - Lewis, C. S. (2002). _Le Monde de Narnia, Tome 2 : Le Lion, La Sorcière Blance et l'Armoire Magique_. Gallimard
 - Lewis, C. S. (2002). _Le Monde de Narnia, Tome 3 : Le Cheval et son Ecuyer_. Gallimard
