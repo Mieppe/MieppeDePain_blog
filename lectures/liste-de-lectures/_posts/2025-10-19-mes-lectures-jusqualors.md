@@ -57,6 +57,7 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Rodda, E. (2006). _La Quête de Deltora, Tome 5 : Les Montagnes Redoutables_. Pocket Jeunesse
 - Rodda, E. (2006). _La Quête de Deltora, Tome 6 : Le Labyrinthe de la Bête_. Pocket Jeunesse
 - Brussolo, S. (2004). _Peggy Sue et les Fantômes, Tome 1 : Le Jour du Chien Bleu_. Pocket Jeunesse
+- Périgot, J.(2007). _Qui a tué Minou Bonbon ?_. Syros
 - Anderson, E. (2009). _Oscar Pill, Tome 1 :  La Révélation des Médicus_. Albin Michel
 - Anderson, E. (2010). _Oscar Pill, Tome 2 :  Les Deux Royaumes_. Albin Michel
 - Anderson, E. (2011). _Oscar Pill, Tome 3 :  Le Secret des Eternels_. Albin Michel
