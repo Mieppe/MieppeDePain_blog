@@ -20,6 +20,8 @@ Bref, assez blablaté, c'est parti pour la liste des choses que j'ai déjà lu. 
 
 Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à condition qu'il s'agissent de choses assez différentes. En règle générale, je sépare donc mes lectures principales (on va dire "livres de chevet"), des DB/Manga, et des "autres lectures" souvent plus prises de tête, ou simplement que je ne sais pas trop comment classer. Je vais donc tenter de maintenir cette distinction ici.
 
+Et dernière chose, je me suis chauffé à tout noter en citation un peu sérieuse, enfin comme on ferait dans une bibliographie. Pour les dates, on parle donc bien des dates d'édition des version que j'ai lu, et non pas forcément des dates d'écriture des textes originaux. Voilà voilà. Aller hop ! 
+
 ## Livres de Chevet
 - Dami, E. (2005). _Geronimo Stilton - Le Royaume de la Fantaisie, Tome 1 : Le Royaume de la Fantasie_. Albin Michel
 - Lewis, C. S. (2002). _Le Monde de Narnia, Tome 1 : Le Neveu du Magicien_. Gallimard
@@ -518,6 +520,10 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Gaignard, A. M. & Saint-Remy, F. (2003). _Hugo et les rois Etre et Avoir, Tome 1 : Hugo et les rois Etre et Avoir_. Le Robert
 - Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 2 : Hugo joue à cache-cache avec les rois_. Le Robert
 - Gaignard, A. M. & Saint-Remy, F. (2004). _Hugo et les rois Etre et Avoir, Tome 3 : Hugo au royaume de sujets dangereux_. Le Robert
+- _Dofus Mag_. (2008, Août - Septembre). 5. Ankama
+- _Dofus Mag_. (2008, Octobre - Novembre). 6. Ankama
+- _Dofus Mag_. (2008 - 2009, Decembre - Janvier). 7. Ankama
+- _Dofus Mag_. (2008, Septembre) Hors série 1. Ankama
 - Drake, E. (2005). _Petit manuel de dragonologie_. Milan
 - Drake, E. (2006). _Comment élever son bébé dragon_. Milan
 - Nigg, J. (2007). _Dragon - Le guide du maître_. Nathan
@@ -545,13 +551,10 @@ Oh et aussi, Je m'autorise souvent à lire plusieurs choses en parralèle à con
 - Nietzsche, F. (1993). _Le Gai Savoir_. Librairie Générale Française
 - Descartes, R. (1990). _Méditations Métaphysiques_. Librairie Générale Française
 - Inman, M. (2013). _Comment Savoir si votre Chat Cherche à vous Tuer_. 12 Bis
-- _Dofus Mag_. (2008, Août - Septembre). 5. Ankama
-- _Dofus Mag_. (2008, Octobre - Novembre). 6. Ankama
-- _Dofus Mag_. (2008 - 2009, Decembre - Janvier). 7. Ankama
-- _Dofus Mag_. (2008, Septembre) Hors série 1. Ankama
 - Mearls, M. & Crawford, J. (2017). _D&D Player's Handbook : Manuel des Joueurs_. Black Book Edition
 - Mearls, M. & Crawford, J. (2017). _D&D Monster Manual : Manuel des Monstres_. Black Book Edition
 - Mearls, M. & Crawford, J. (2017). _D&D Dungeon Master's Guide : Guide du Maître_. Black Book Edition
+- Rimbaud, A. (1999). _Poésies - Une saison en enfer - Illuminations_. Gallimard
 
 ## Relecture
 
