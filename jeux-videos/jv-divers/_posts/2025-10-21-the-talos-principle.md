@@ -66,6 +66,21 @@ Si Talos Pinciple distille du lore petit à petit, Talos Principle 2 nous nourri
 
 Le format est très différent mais le mood est tellement toujours là. C'est une petite bouffée d'air frais, et j'ai absolument hâte de continuer à explorer et à me questionner sur ce nouveau jeu. 
 
+...
+
+Et me voilà quelques semaines plus tard. Je me permets une petite update : ce. jeu. est. fou.
+
+J'ai terminé le jeu principal mais heureusement, il reste un DLC (donc je ne suis pas encore trop endeuillé). Je vais faire rapide : je pense que c'est tout simplement un des meilleurs jeu que j'ai pu faire. Mais b***** de m**** pourquoi on n'entend pas plus parler de ce (ces) jeu ? Le côté réflexion philo est toujours clairement là. Il y a l'introduction de plein de nouvelles mécaniques dans les différents puzzles. Le jeu est magnifique, avec des lieux et des paysages absoluments grandioses. L'histoire est terriblement prenante et les personnages sont tous attachants et très bien écrit. Je mets d'ailleurs un gros accent sur les personnages qui sont tous tellement "réels", touchants, avec des particularités, un caractère etc. Je trouve aussi qu'il y a des dynamiques vraiments belles, drôles, attendrissantes entre les personnages.
+
+J'avais écrit que le premier jeu m'avais accroché comme un bon bouquin. Je réitère pour ce second jeu, plus encore que le premier. D'ailleurs , tadaaam, c'est le moment de comparer mes pensées à la fin des différents jeux : 
+* Talos principle 1 : Tristou de quitter un monde si bien fait, mais bon, il y a un DLC c'est cool.
+* Road to Gehenna : Ok, la c'est la tristesse, mais Dieu merci il y a un second jeu, donc le seum est éclipsé par la hype.
+* Talos principle 2 : Bonjour et voici une double dose de PLS, car cette fois en plus de devoir faire le deuil d'une histoire trop stylée, je dois faire le deuil des personnages qui étaient vraiment trop attachants pour mon petit coeur de caillou, et qui vont me manquer premier degré. Heureusement, encore une fois il y a un DLC, donc je vais pouvoir delay un peu le deuil de l'univers.
+
+Bon, je vais essayer de me forcer à ne pas mettre à jour cette page une 3eme fois lorsque j'aurai fini le DLC du second jeu... Donc il n'y aura sans doute pas de news à ce propos, mais sachez que je vais très très très surement avoir envie de _crever_ mdr.
+
+...
+
 Et sur ce je pense que je vais m'arrêter là, pour une fois j'ai l'impression d'avoir plutôt bien réussi à coucher mon ressenti sur papier. Enfin sur écran.
 
 (_compteur de "lore": 15_)
