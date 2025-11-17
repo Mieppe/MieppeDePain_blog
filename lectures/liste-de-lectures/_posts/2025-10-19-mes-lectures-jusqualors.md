@@ -60,6 +60,11 @@ Et dernière chose, je me suis chauffé à tout noter en citation un peu sérieu
 - Rodda, E. (2006). _La Quête de Deltora, Tome 6 : Le Labyrinthe de la Bête_. Pocket Jeunesse
 - Brussolo, S. (2004). _Peggy Sue et les Fantômes, Tome 1 : Le Jour du Chien Bleu_. Pocket Jeunesse
 - Périgot, J.(2007). _Qui a tué Minou Bonbon ?_. Syros
+- Mourlevat, J.-C. (2000). _La Rivière à l'envers, Tome 1 : Tomek_. Pocket Jeunesse
+- Mourlevat, J.-C. (2001). _La Rivière à l'envers, Tome 2 : Hannah_. Pocket Jeunesse
+- Santos, C. (2010). _L'amour au-delà de la mort_. Seuil
+- Horowitz, A. (2007). _David Eliot, Tome 1 : L'Île du crâne_. Hachette
+- Horowitz, A. (2007). _David Eliot, Tome 2 : Maudit graal_. Hachette
 - Anderson, E. (2009). _Oscar Pill, Tome 1 :  La Révélation des Médicus_. Albin Michel
 - Anderson, E. (2010). _Oscar Pill, Tome 2 :  Les Deux Royaumes_. Albin Michel
 - Anderson, E. (2011). _Oscar Pill, Tome 3 :  Le Secret des Eternels_. Albin Michel
