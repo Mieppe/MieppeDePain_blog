@@ -560,6 +560,7 @@ Et dernière chose, je me suis chauffé à tout noter en citation un peu sérieu
 - Mearls, M. & Crawford, J. (2017). _D&D Monster Manual : Manuel des Monstres_. Black Book Edition
 - Mearls, M. & Crawford, J. (2017). _D&D Dungeon Master's Guide : Guide du Maître_. Black Book Edition
 - Rimbaud, A. (1999). _Poésies - Une saison en enfer - Illuminations_. Gallimard
+- Breton, A. (1996). _Poisson soluble_. Gallimard
 
 ## Relecture
 
