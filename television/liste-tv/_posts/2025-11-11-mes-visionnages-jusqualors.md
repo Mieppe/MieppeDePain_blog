@@ -49,6 +49,7 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - Captain America : Civil War (2016)
 - Captain America : First Avenger (2011)
 - Captain America : Le Soldat de l'hiver (2014)
+- Camping (2006)
 - Captain Marvel (2019)
 - Casino Royale (2006)
 - Conjuring : Les Dossiers Warren (2013)
@@ -112,6 +113,7 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - Le Monde Perdu ; Jurrassic Park [2] (1997)
 - Jurrassic Park 3 (2001)
 - Jurrassic World (2015)
+- World War Z (2013)
 - Jurrassic World : Le Monde d'après (2022)
 - Kirikou et la sorcière (1998)
 - Dilili à Paris (2018)
@@ -157,9 +159,13 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - Les Simpson, le film (2007)
 - Les Tontons flingueurs (1963)
 - Les Visiteurs (1993)
+- Les Visiteurs 2 : Les couloirs du temps (1998)
+- La Guerre des Boutons (1962)
+- La Vague (2008)
 - Da Vinci Code (2006)
 - Le jour d'après (2004)
 - District 9 (2009)
+- Le Roi et Moi (1999)
 - L'Incroyable Hulk (2008)
 - The Mask (1994)
 - MAYHEM in the Desert : Lady Gaga Live at Coachella (2025)
@@ -191,6 +197,7 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - Fantomas (1964)
 - Red 2 (2018)
 - Rogue One : A Star Wars Story (2016)
+- Qui veut la peau de Roger Rabbit (1998)
 - Seul sur Mars (2015)
 - Shaun of the Dead (2004)
 - Shining (1980)
@@ -244,6 +251,7 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - Zoolander 2 (2016)
 - La nuit au musée (2006)
 - Zootopie (2016)
+- Zootopie 2 (2025)
 - Le Cinquième Elément (1997)
 - X-Men [1] : Le Commencement (2011)
 - X-Men [2] Origins : Wolverine (2009)
@@ -318,12 +326,33 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 - OSS 117 [3] : Alerte rouge en Afrique noire (2021)
 - Peter Pan (1953)
 - Le Pôle Express (2004)
+- La Princesse et la Grenouille (2009)
+- Ratatouille (2007)
+- Le Règne du Feu (2002)
+- La Route d'El Dorado (2000)
+- Sherlock Holmes (2009)
+- Sherlock Holmes [2] : Jeu d'ombres (2011)
+- The Boy (2016)
+- L'Apprenti Sorcier (2010)
+- Super Mario Bros, le film (2023)
+- Taken (2008)
+- Raiponce (2010)
+- Là-haut (2009)
+- Papyrus (1998)
+- La Petite Nemo et le Monde des rêves (2022)
 
-=> je m'arrete au pole explress pour l'instant j'ai fait dans l'ordre sur radarr mais en ajoutant d'autres trucs à mesure que j'y pensais
+=> 
 
 ## Séries
 
+parcs and recreation
+the big bang theory
+the boys
+peaky blinders
+
 ## Animés
+
+jojo
 
 ## Revisionnage
 
