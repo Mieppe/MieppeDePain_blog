@@ -345,14 +345,31 @@ P.S. : Je vais classer par date de sortie pour cette page je pense. Et aussi je 
 
 ## Séries
 
-parcs and recreation
-the big bang theory
-the boys
-peaky blinders
+- Arcane (2021) [S1-S2]
+- Ca : Bienvenue à Derry (2025) [S1]
+- Castlevania (2017) [S1-S4]
+- Castlevania : Nocturne (2023) [S1-S2]
+- Centaurworld (2021) [S1-S2]
+- Hazbin Hotel (2024) [S1-S2]
+- Helluva Boss (2020) [S1-S2]
+- La Légende de Vox Machina (2022) [S1-S3]
+- Le Visiteur du Futur (2009) [S1-S3]
+- Loki (2021) [S1-S2]
+- Luz à Osville (2020) [S1-S3]
+- The Mighty Nein (2025) [S1]
+- Rick et Morty (2013) [S1-S7]
+- Sandman (2022) [S1]
+- South Park (1997) [S1-S21]
+- Wakfu (2008) [S1-S4]
+- Parks and Recreation (2009) [S1-?]
+- The Big Bang Theory (2007) [S1-?]
+- The Boys (2019) [S1-S4]
+- Peaky Blinders (2013) [S1-S4]
+- Game of Thrones (2011) [S1-S7]
 
 ## Animés
 
-jojo
+
 
 ## Revisionnage
 
