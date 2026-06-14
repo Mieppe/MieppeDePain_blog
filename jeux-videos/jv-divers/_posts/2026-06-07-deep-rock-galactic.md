@@ -29,17 +29,38 @@ Bon, bien que l'on puisse accuser Deep Rock Galactic de folie, ils sont tout de 
 
 Ah, oui, je répète que Hoxxes IV est une planète extrèmement dangereuse, mais je n'ai pas vraiment expliqué pourquoi. Disons pour commencer que lorsque l'on débarque dans une région étrangère dans le but d'en exploiter toutes les ressources, la population locale voit rarement ça d'un bon oeil. C'est d'autant plus vrai quand la population locale est majoritairement composée d'insectes géants hautement agressifs. Et je ne parle même pas des tremblements de terre, des tempêtes de sable souterraines, ou des chutes de météorites. Bref, Hoxxes IV, ça craint.
 
-Heureusement, entre les missions, on repasse toujours par la plateforme, ce qui donne l'occasion de faire le plein de bière et d'équipement avant de se remettre au travail. Il y a de nombreuses choses à faire ici : comme repenser totalement son style et sa garde robe, boire des bières à l'abysse bar jusqu'à s'en rendre malade, ou faire tout ce que l'on peut pour énerver le management comme envoyer des barils dans la baie de lancement de la capsule spatiale.
+![](/MieppeDePain_blog/assets/images/deep_rock_galactic.jpg)
 
-// présentation de la plateforme en détail
+Bon, voilà grossièrement pour le lore. Mais ça ressemble à quoi en terme de gameplay ? 
 
-//changement de ton, on sort du RP maintenant I guess 
+Pour commencer, DRG, c'est un FPS coopératif, PVE, de 1 à 4 joueurs. L'objectif est de réaliser différentes missions, allant de la simple expédition de minage aux contrats d'élimination de spécimènes dangereux ou d'opération de raffinage.
+Chaque mission demande donc aux joueurs de s'aventurer dans des grottes générées procéduralement, et de réaliser diverses missions tout en tentant de survivre aux vagues régulières d'insectes géants décidément peu accueuillants.
+Une fois la mission réalisée, on rejoint la capsule chargée de nous ramener à bord de la plateforme spatiale. C'est alors l'occasion de dépenser l'argent durement gagné en améliorant son équipement en achetant des cosmétique. C'est ausi le moment de se détendre un peu, en abusant de l'alcool disponible à l'abyss bar et en dansant sur le son d'un jugebox en ignorant les remarques désaprobatrices du management.
 
-// présentation de mission
+De mon point de vue, ce qui rend le jeu vraiment particulier, c'est l'aspect coopératif. C'est un jeu qui arrive à prendre 4 illustres inconnus, à les placer dans un environnement hostile, et à créer en quelques minutes un sentiment de cohésion et de loyauté les uns envers les autres. Il faut dire que tout est fait pour. Le jeu récompense énormément la coopération. Sortir d'une mission en ayant tous les nains en vie offre des récompenses supplémentaires qui poussent les joueurs à ne jamais s'abandonner, et à risquer le tout pour le tout pour relever un amis tombé à terre. 
+La touche la plus importante du jeu est bindée sur "V". Et permet à notre nain de célébrer en levant sa pioche au dessus de sa tête et en criant "Rock and stone !". Cette simple emote permet de célébrer, et est utilisée pour toutes les occasion ; pour dire "bonjour", "merci", "bravo", "bienvenue", ou encore "allons-y".
+Le jeu crée vraiment cette impression de jouer avec des amis de longue date lorsque l'on boit des bières en dansant entre les missions. Et de devoir se serrer les coudes entre collègues qui partagent la même galère lors des missions.
 
-// les plongées abyssales et les récompense du jeu (overclock, cosmétique)
+Une chose qui aide énormément cette coopération est le design des différentes classes. Sans surprises, il y en a 4. Rien n'oblige les joueurs à choisir chacun une classe différente, mais c'est évidemment ce qui fonctionne le mieux.
+Les différents nains jouables sont les suivants : 
+- Le scout : c'est l'éclaireur du groupe, dans les deux sens du terme. Il ne tape pas bien fort, mais il possède un pistolet à grapin qui lui permet d'atteindre des zones autrement difficiles d'accès. Et il est équipé d'un lanceur de fusées éclairantes, très utile pour apporter une lumière puissante et durable dans les grottes les plus obscures.
+- Le soldat : c'est le fer de lance de l'équipe. Il arrose les hordes de mobs de balles, et protèges ses alliers à l'aide de champs de forces qu'il peut déployer au sol. Il est aussi équipé d'un lance tyrolienne permettant à toute l'équipe de traverser des gouffres sans se briser le crâne en contrebas.
+- Le foreur : c'est la taupe du groupe. Il utilises deux foreuses portatives pour creuser des galeries ou modifier le terrain à son avantage. Très utile pour tracer une ligne droite vers un point d'intéret en s'évitant des détours aussi inutiles que dangereux. Il utilise aussi un lance flamme qui lui octroit une sacrée capacité de contrôle de foule.
+- L'ingénieur : c'est le petit malin du groupe. Il construit des tourelles à des endroits stratégiques pour exterminer les ennemis assez bêtes pour s'approcher, et ce sans se salir les mains. En plus de ça, il dispose d'un petit bijou de technologie : un lance plateforme qui permet, comme son nom l'indique, de créer des platforme pour rendre accessibles des ressources autrement périeuses à récupérer.
 
-// le gameplay et la commu
+Comme dit, les différentes classes combotes extrèmement bien entre elles. Réunir ces quatres nains dans une mission est souvent la meilleur manière d'augmenter ses chances de succès. Et cette composition d'équipe est très satisfaisante. 
+Avec un scout dans son équipe, on dispose d'un éclairage suffisant pour voir les ennemis venir de loin. La présence d'un ingénieur lui permet de sauter de plateforme en plateforme pour récupérer des ressourses facilement pendant que les tourelles gères les ennemis environnants. Ajouter à cela un soldat pour avoir la puissance de feu nécessaires lorsque l'équipe manque d'être submergée par une vague d'insectes mécontants. Et un foreur pour terraformer le terrain et créer des tunnels en ligne droite vers la capsule d'extraction lorsque la fin de mission approche et que le temps avant son départ se fait dangereusement court.
+Bref, ces quatres là on le potentiel de transformer une situation désespérée en réussite eclatante.
+
+Malgré l'environnement hostile, les différentes missions et les niveaux de difficultés permettent de beaucoup varier le gameplay. 
+
+// donner plus d'exemples de missions et quelques modificateurs
 
 
-// les autes jeux DRG
+
+// les plongées abyssales et les récompenses du jeu (overclock, cosmétique)
+
+// la commu
+
+
+// les autes jeux DRG ?
