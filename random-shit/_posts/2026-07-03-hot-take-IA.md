@@ -96,6 +96,8 @@ Ah et je connais un mec dans la tech aussi, qui code beaucoup. Lui il a une hot 
 
 Ouais c'est peut être un peu extrème mais je pense pareille d'une certaine façon, peut être que si mon taf change trop par rapport à ce que j'aime, il vaut mieux que j'aille bosser dans une librairie.
 
+Pour être un tout petit peu plus sérieux là dessus, on peut sans doute résumer la pensée comme ça : j'ai pas peur pour mon travail, j'ai peur de ce qu'il va devenir.
+
 ## Et après ?
 
 En vrai pour la suite, à quoi va ressembler mon travail réellement ?
