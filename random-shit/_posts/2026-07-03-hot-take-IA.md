@@ -27,7 +27,7 @@ Bon et évidemment je ne me positionne pas du tout en expert. On va dire que c'e
 
 Jusqu'à il y a peu, je pense que je ne me souciais vraiment pas beaucoup de l'IA générative. C'est arrivé d'un coup, on s'est dit "whaou c'est ouf" et voilà. J'ai l'impression que beaucoup ont épousé le truc directement. Moi comme je suis un vieux con à l'intérieur, j'ai vite eu un regard critique (comme beaucoup de mon entourage). 
 
-OK c'est cool mais écologiquement c'est pas une dinguerie. OK c'est cool, mais ça pose pas mal de questions de droits d'auteur. OK c'est cool, mais comment on fait la différence maintenant entre  devoirs maisons faits par un élève ou par une IA ? Et les arnaques ? Et comment on différentie les gens qui savent s'exprimer des autres ? Et comment on fait pour pas être noyés de fausses infos, de faux comptes sur les réseaux sociaux ? Comment on fait quand on aime les dessins d'artistes sur les réseaux sociaux, pour ne pas être noyés par 50 000 images d'une generic anime girl toutes les heures ? Et ça sert à quoi de faire une lettre de motivation ? 
+OK c'est cool mais écologiquement c'est pas une dinguerie. OK c'est cool, mais ça pose pas mal de questions de droits d'auteur. OK c'est cool, mais comment on fait la différence maintenant entre  devoirs maisons faits par un élève ou par une IA ? Et les arnaques ? Et comment on différentie les gens qui savent s'exprimer des autres ? Et comment on fait pour pas être noyés par les fake news ? Et c'est chiant de naviguer entre les comtes fake de goth girls full IA. Comment on fait quand on aime les dessins d'artistes sur les réseaux sociaux, pour ne pas être noyés par 50 000 images d'une generic anime girl toutes les heures ? Et ça sert à quoi de faire une lettre de motivation ? 
 
 Il y a eu des études de fait sur des plateformes d'aide sociale en ligne, en mode tu racontes tes soucis et les gens te répondent pour t'aider et te réconforter etc. Ce qu'ils ont fait c'est qu'ils ont donné une IA aux agent qui répondent aux "clients". Comme ça , les clients racontent leur problèmes, les agents utilisent l'IA pour qu'elle leur sorte la meilleure réponse, et ils répondent cela aux clients. Dans l'énorme majorité des cas, les clients ont trouvé les réponses beaucoup mieux, réconfortantes. Bref, ça leur a fait vachement de bien. Par contre dès qu'ils étaient mis au courant que la réponse était générée par une IA, leur satisfaction et leur réconfort a droppé de fou. Marrant hein ? C'est comme si dire à une personne "je comprends, ça doit être difficile" ou "je suis avec toi", ça n'a aucune valeur si on est pas réellement en mesure de comprendre de ressentir et de compatir.
 
@@ -137,6 +137,8 @@ Au final, coder ça va peut être devenir un hobby juste. Genre comme les gens q
 Vous voyez les vidéos sur insta, avec de la musiques ZEN et des asiatiques qui fabriquent des trucs à l'ancienne genre qui montrent comment ils font du fil de soi ou idk là ? Vous pensez il y aura ça avec un mec qui code ?
 
 Wha la gueule du monde. Au moins on regagnera peut être un peu d'esprit critique ? Ca vaut bien quelques lac I guess.
+
+Bon ok, peut être que l'avantage de vivre le changement c'est qu'on est pas obligé de le subir, on peut en être acteur ?
 
 ## Allez stop
 
