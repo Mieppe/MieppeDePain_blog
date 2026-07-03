@@ -1,6 +1,6 @@
 ---
 title: "Ma hot take sur l'IA"
-date: 2027-07-03
+date: 2026-07-03
 author: MieppeDePain
 categories: random-shit
 ---
