@@ -30,6 +30,7 @@ vrising
 la fucking liste des cookies
 des recettes 
 
+// devrait être ajouter plutôt dans le readme
 Pour lancer localement :
 bundle install
 bundle exec jekyll serve
