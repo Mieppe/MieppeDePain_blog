@@ -35,7 +35,8 @@ Bon, voilà grossièrement pour le lore. Mais ça ressemble à quoi en terme de 
 
 Pour commencer, DRG, c'est un FPS coopératif, PVE, de 1 à 4 joueurs. L'objectif est de réaliser différentes missions, allant de la simple expédition de minage aux contrats d'élimination de spécimènes dangereux ou d'opération de raffinage.
 Chaque mission demande donc aux joueurs de s'aventurer dans des grottes générées procéduralement, et de réaliser diverses missions tout en tentant de survivre aux vagues régulières d'insectes géants décidément peu accueuillants.
-Une fois la mission réalisée, on rejoint la capsule chargée de nous ramener à bord de la plateforme spatiale. C'est alors l'occasion de dépenser l'argent durement gagné en améliorant son équipement en achetant des cosmétique. C'est ausi le moment de se détendre un peu, en abusant de l'alcool disponible à l'abyss bar et en dansant sur le son d'un jugebox en ignorant les remarques désaprobatrices du management.
+En général, lors de ces mission, on est accompagnés de Molly, une mule mécanique à la capacité de stockage remarquablement élevée. On a essayé de le remplir entièrement sans jamais y parvenir. On dirait presque qu'elle est plus grande à l'intérieur qu'à l'extérieur... Bref, Molly a aussi la capacité très particulière de se placer toujours au même endroit, mais il faut dire qu'elle est bien pratique pour transporter tout ce que l'on mine.
+Une fois une mission réalisée, on rejoint la capsule chargée de nous ramener à bord de la plateforme spatiale. C'est alors l'occasion de dépenser l'argent durement gagné en améliorant son équipement en achetant des cosmétique. C'est ausi le moment de se détendre un peu, en abusant de l'alcool disponible à l'abyss bar et en dansant sur le son d'un jugebox en ignorant les remarques désaprobatrices du management.
 
 De mon point de vue, ce qui rend le jeu vraiment particulier, c'est l'aspect coopératif. C'est un jeu qui arrive à prendre 4 illustres inconnus, à les placer dans un environnement hostile, et à créer en quelques minutes un sentiment de cohésion et de loyauté les uns envers les autres. Il faut dire que tout est fait pour. Le jeu récompense énormément la coopération. Sortir d'une mission en ayant tous les nains en vie offre des récompenses supplémentaires qui poussent les joueurs à ne jamais s'abandonner, et à risquer le tout pour le tout pour relever un amis tombé à terre. 
 La touche la plus importante du jeu est bindée sur "V". Et permet à notre nain de célébrer en levant sa pioche au dessus de sa tête et en criant "Rock and stone !". Cette simple emote permet de célébrer, et est utilisée pour toutes les occasion ; pour dire "bonjour", "merci", "bravo", "bienvenue", ou encore "allons-y".
@@ -48,19 +49,50 @@ Les différents nains jouables sont les suivants :
 - Le foreur : c'est la taupe du groupe. Il utilises deux foreuses portatives pour creuser des galeries ou modifier le terrain à son avantage. Très utile pour tracer une ligne droite vers un point d'intéret en s'évitant des détours aussi inutiles que dangereux. Il utilise aussi un lance flamme qui lui octroit une sacrée capacité de contrôle de foule.
 - L'ingénieur : c'est le petit malin du groupe. Il construit des tourelles à des endroits stratégiques pour exterminer les ennemis assez bêtes pour s'approcher, et ce sans se salir les mains. En plus de ça, il dispose d'un petit bijou de technologie : un lance plateforme qui permet, comme son nom l'indique, de créer des platforme pour rendre accessibles des ressources autrement périeuses à récupérer.
 
-Comme dit, les différentes classes combotes extrèmement bien entre elles. Réunir ces quatres nains dans une mission est souvent la meilleur manière d'augmenter ses chances de succès. Et cette composition d'équipe est très satisfaisante. 
+Comme dit, les différentes classes combotent extrèmement bien entre elles. Réunir ces quatres nains dans une mission est souvent la meilleur manière d'augmenter ses chances de succès. Et cette composition d'équipe est très satisfaisante. 
 Avec un scout dans son équipe, on dispose d'un éclairage suffisant pour voir les ennemis venir de loin. La présence d'un ingénieur lui permet de sauter de plateforme en plateforme pour récupérer des ressourses facilement pendant que les tourelles gères les ennemis environnants. Ajouter à cela un soldat pour avoir la puissance de feu nécessaires lorsque l'équipe manque d'être submergée par une vague d'insectes mécontants. Et un foreur pour terraformer le terrain et créer des tunnels en ligne droite vers la capsule d'extraction lorsque la fin de mission approche et que le temps avant son départ se fait dangereusement court.
 Bref, ces quatres là on le potentiel de transformer une situation désespérée en réussite eclatante.
 
-Malgré l'environnement hostile, les différentes missions et les niveaux de difficultés permettent de beaucoup varier le gameplay. 
+Pour décrire un peu les différentes mission disponibles à ce jour, voilà un rapide résumé : 
+- Les expéditions minières : simples, efficaces ; un seul objectif : s'enfoncer toujours plus profondéments dans un système de grottes pour y récupérer une quanitié suffisante de minerai, puis rentrer en vie.
+- Les chasses aux oeufs : vous voyez Pâques ? Et bien ici c'est pareil, sauf que le lapin c'est sans doute un gros insecte moche. Il suffit de récupérer un certain nombre d'oeuf, sans trop poser de question sur le pourquoi. (Peut être que le management aime les bonnes omelettes d'alien ?).
+- Les raffinement sur site : cette fois l'objectif est de constuire des tuyaux pour relier plusieurs pompes de minerai liquide à un raffinerie centrale. C'est chouette on peut surfer sur les tuyaux.
+- Les opérations de récupération : quand l'équipe précédente n'a pas assurée, on est envoyés pour récupérer leur matériel, leur ressources, réparer la capsule de lancement et s'enfuire avec direction la plateforme.
+- Les points d'extraction : l'objectif est de récupérer un certain nombre de gros minéraux luminescents. Pour ces missions, Molly ne nous accompagne pas. C'est donc l'occasion de réaliser qu'elle est quand même bien pratique quand elle est là.
+- Les missions d'escorte : quand il s'agit de miner des gros rochers, Deep Rock Galactic fait appel à Dolly, le Drilldozer. Le magnifique résultat d'un croisement entre une foreuse et un bulldozer. L'objectif est de l'escorter jusqu'à une roche particulièrement corriace, dans le but d'en extraire son coeur. Attention cependant, la roche en question n'est pas totalement d'accord avec ce plan.
+- Elimination : comme on dit, il vaut mieux prévenir que guérir. Dans cette optique, Deep Rock envoie parfois nos chers amis nains pour éliminer des insectes particulièrement puissants avant qu'ils ne deviennent une trop grosse menace.
+- Sabotage industielle : vous vous rappelez quand j'ai dit que Deep Rock Galactic était la seules entreprise assez folle pour oser exploiter les ressources de Hoxxes IV ? Hé bien ça n'est plus totalement vrai : une autre entreprise essaie de s'y implanterà son tour. Evidemment le management ne voit pas ça d'un bon oeil. Pour préserver son monopole, la boite nous envoie donc faire une petite "visite" de leurs exploitations.
+- Scan en profondeur : vous connaissez les géodes ? Mais est-ce que vous connaissez les géodes géantes que l'on doit localiser puis atteindre via un ascensseur équipé d'une foreuse ? Rien de plus simple, on la trouve, on y etre, on récupère tout ce qu'on peut puis on file.
+- Extractions lourdes : parfois on découvre de grandes masses de résine très précieuse dans les souterrains. Dans ce cas, l'objectif est de les extraire, les équiper de petits réacteurs, et les envoyer en orbite. 
 
-// donner plus d'exemples de missions et quelques modificateurs
+Et c'est tout pour les missions. En plus de cela, chaque mission propose de remplir un objectif secondaire, comme ramasser des fossiles ou partir à la chasse aux champignons. 
+La difficulté et la longueur d'une mission peut varier, et parfois des modificateurs peuvent grandement impacter le déroulement de l'expédition. Par exmple certaines zones de Hoxxes présentent une atmosphère apauvrie, ce qui demande de rester proches des structures et de Molly pour éviter l'asphyxie. Dans d'autres zones, les insectes sont parasités par des vers agressifs qui s'échapent lorsqu'ils sont tués. Il arrive aussi que des perturbations électromagnétiques désactivent totalement les boucliers. J'ai même déjà entendu parler de certaines cavernes supposément hantées par un insecte géant, invisible et invulnérable.
+A l'inverse, certaines grottes semblent affaiblir les insectes, ou les pousser à métaboliser de l'or véritable ! La nature est parfois bien faite. 
 
+Bon, tout ça c'est bien chouette, mais que fait un nain quand il a assez d'expérience pour trouver toutes ces missions beaucoup trop simples pour lui ? Ou que faire quand un nain a accumulé assez de richesse pour couvrir entièrement son budget bière ? Dans ce genre de cas il devient difficile de motiver les meilleurs recrues. 
+Il se trouve que Deep Rock Galactic a justement un travail taillé sur mesure pour ce genre d'individus : les plongées abyssales.
 
+Les plongées abyssales, se sont des excurtions au plus proche du noyau de la planète. Des excursion de 3 mission d'affilées, sans retour à la base entre temps, et avec un difficulté croissante. Pourquoi se lancer dans de tels expéditions ? Car c'est la façon la façon principale de se procurer des overclocks. 
+Et cela nous emmène à la question suivante : un overclock, c'est quoi ?
 
-// les plongées abyssales et les récompenses du jeu (overclock, cosmétique)
+Les overclocks, ce sont les meilleurs moyens de transformer un nain expérimenté en nain vétérant. Ce sont en quelque sorte des blueprints, qui permettent à nos chers nains de forger des cosmétiques (car même un nain de l'espace aime être à la mode) et surtout des modificateurs d'arme très puissants.
+Car même si le management nous fournit des armes de qualité acceptable, et les décore ou les améliore à notre demande, nous, nains, on aime quand même bricoler. Et quoi de plus drôle que de bricoler une arme pour modifier complètement son comportement ?
+Vous aimez envoyer des rafales de balles dans les aliens proches ? Que dites vous de plus de balles et de rafales plus rapprochées ?
+Vous êtes du genre à recharger souvent ? Et si le méchanisme de rechargement electrocutait les aliens touchés précédement ?
+Les lance-grenades ça vous botte ? Et pourquoi pas les lance-têtes-nucléaires-miniatures ?
 
-// la commu
+Et voilà comment un nain, avec de l'or, de la bière, et assez de talent en bricolage, peut devenir un véritable maitre en extermination de nuisibles.
 
+Nous arrivons sur le point le plus important de Deep Rock Galactic : la communauté.
+Car à mon avis Deep Rock Galactic n'est pas uniquement un bon jeu, c'est avant tout un jeu disposant d'une communauté exeptionnel. Ce qui, pour un jeu coopératif entre illustres inconnus, et avec du friendly fire, est véritablement remarquable.
+Il faut dire que tout dans le jeu est fait pour encourager la coopération et les comportement positifs. Je pense que la communauté a joué un grand rôle dans mon envie de lancer des games encore et encore sans jamais me lasser. La bienveillance des joueurs alliés à la complémentarité des classes crée cette impression de faire partie d'une véritable équipe travaillant dans un but commun, et ce dès les première parties alors que l'on débute encore. Il y a un côté hautement satisfaisant à se connecter à une partie, spammer quelques fois "ROCK AND STONE" en guise de salut, puis courir dans des cavernes immenses en se couvrant l'un l'autre, en faisant la chaine pour mettre en place les outils de minage, et surtout en hésitant jamais à prendre des risques inconsidérés pour aider un coéquipier tombé à terre. Comme on dit "LEAVE NO DWARF BEHIND !".
 
-// les autes jeux DRG ?
+Et cela conclut cette articule sur Deep Rock Galactic, ce jeu qui aura été sans aucun doute ma meilleure découverte de ces dernières années.
+Je profite aussi de ces dernières lignes pour relever le fait que d'autres jeux existent dans cette même franchise, tous excellents :
+- Deep Rock Galactic : Survivor : un vampire survivor très adictif (et dispo aussi sur téléphone)
+- Deep Rock Galactic : Rogue Core : le petit frère de DRG, un rogue lite bien plus nerveux
+
+Qui sait, peut être que je ferai des articles sur ces jeux aussi ?
+
+Sur ce, je file commander une bière,
+Rock And Stone !
