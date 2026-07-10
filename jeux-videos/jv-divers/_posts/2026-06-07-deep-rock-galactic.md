@@ -55,7 +55,7 @@ Les différents nains jouables sont les suivants :
 
 Comme dit, les différentes classes combotent extrèmement bien entre elles. Réunir ces quatres nains dans une mission est souvent la meilleur manière d'augmenter ses chances de succès. Et cette composition d'équipe est très satisfaisante. 
 Avec un scout dans son équipe, on dispose d'un éclairage suffisant pour voir les ennemis venir de loin. La présence d'un ingénieur lui permet de sauter de plateforme en plateforme pour récupérer des ressourses facilement pendant que les tourelles gères les ennemis environnants. Ajoutez à cela un soldat pour avoir la puissance de feu nécessaires lorsque l'équipe manque d'être submergée par une vague d'insectes mécontants. Et un foreur pour terraformer le terrain et créer des tunnels en ligne droite vers la capsule d'extraction lorsque la fin de mission approche et que le temps avant son départ se fait dangereusement court.
-Bref, ces quatres là on le potentiel de transformer une situation désespérée en réussite eclatante.
+Bref, ces quatres là ont le potentiel de transformer une situation désespérée en réussite eclatante.
 
 ## Les Missions
 
