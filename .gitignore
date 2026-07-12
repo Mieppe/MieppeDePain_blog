@@ -4,4 +4,8 @@ _site
 .jekyll-metadata
 vendor
 .vscode
+<<<<<<< HEAD
 .bundle
+=======
+.bundle
+>>>>>>> eb411bd2eeef582cd773cfa90001263bc59ded4e
